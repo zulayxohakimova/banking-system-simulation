@@ -1,0 +1,501 @@
+Customer_ID,Biller_Name,Amount,Date,Status
+37,Gym Membership,332.4,2024-09-27,Pending
+135,Credit Card Bill,184.18,2024-07-18,Failed
+311,Streaming Service,17.7,2025-01-12,Failed
+404,Streaming Service,739.44,2025-01-19,Pending
+251,Insurance Payment,236.21,2024-05-15,Failed
+896,Gym Membership,285.46,2023-05-26,Paid
+199,Mobile Carrier,958.04,2023-12-12,Paid
+983,Water Utility,307.27,2024-07-03,Failed
+868,Credit Card Bill,354.35,2023-09-24,Pending
+485,Credit Card Bill,653.88,2024-12-02,Failed
+214,Gas Provider,828.96,2024-05-27,Paid
+713,Mobile Carrier,740.7,2023-09-19,Paid
+251,Gas Provider,966.46,2024-06-26,Paid
+305,Internet Service,928.8,2023-03-17,Paid
+877,Water Utility,418.74,2024-01-10,Pending
+917,Insurance Payment,231.64,2024-12-06,Paid
+424,Credit Card Bill,46.98,2024-05-15,Pending
+638,Mobile Carrier,946.65,2023-11-11,Pending
+578,Gym Membership,641.53,2023-05-29,Failed
+516,Credit Card Bill,378.38,2023-03-09,Pending
+170,Mobile Carrier,956.04,2024-12-11,Pending
+695,Water Utility,603.29,2023-03-06,Failed
+627,Insurance Payment,315.18,2024-04-11,Pending
+775,Credit Card Bill,128.24,2025-01-28,Pending
+12,Internet Service,690.58,2024-05-12,Pending
+397,Mobile Carrier,333.36,2023-03-08,Failed
+658,Streaming Service,279.9,2024-12-23,Pending
+943,Mobile Carrier,136.03,2023-09-17,Failed
+384,Loan Repayment,988.94,2024-11-30,Failed
+544,Electric Company,645.16,2024-10-17,Failed
+293,Loan Repayment,157.7,2025-02-12,Paid
+216,Water Utility,302.47,2024-06-05,Failed
+839,Streaming Service,50.86,2024-02-09,Pending
+990,Internet Service,795.62,2024-11-30,Paid
+767,Streaming Service,989.1,2023-10-29,Failed
+564,Internet Service,479.19,2024-07-28,Failed
+694,Loan Repayment,251.19,2024-10-29,Paid
+342,Water Utility,676.82,2023-07-11,Paid
+64,Electric Company,895.36,2024-07-16,Failed
+503,Gym Membership,355.36,2024-12-31,Pending
+509,Credit Card Bill,48.87,2023-10-06,Failed
+118,Insurance Payment,972.78,2024-12-17,Paid
+990,Loan Repayment,845.54,2024-05-23,Paid
+492,Streaming Service,735.28,2023-06-01,Pending
+386,Mobile Carrier,15.71,2024-11-12,Failed
+62,Streaming Service,93.7,2023-07-13,Pending
+49,Streaming Service,723.65,2024-11-03,Failed
+898,Gym Membership,379.43,2024-05-15,Paid
+526,Mobile Carrier,23.31,2024-11-01,Pending
+648,Gym Membership,598.77,2024-04-05,Paid
+705,Electric Company,548.04,2024-03-16,Pending
+504,Credit Card Bill,952.36,2025-02-02,Failed
+173,Internet Service,143.36,2024-08-09,Failed
+563,Streaming Service,786.31,2023-08-25,Failed
+588,Insurance Payment,11.46,2024-02-01,Pending
+76,Insurance Payment,334.95,2024-04-24,Failed
+857,Credit Card Bill,568.91,2023-09-10,Paid
+180,Internet Service,859.71,2024-05-24,Failed
+804,Gym Membership,433.12,2023-04-16,Failed
+142,Gas Provider,102.83,2023-03-04,Failed
+879,Water Utility,599.4,2025-01-07,Failed
+719,Water Utility,960.12,2024-07-25,Paid
+77,Gym Membership,336.78,2024-01-28,Failed
+556,Credit Card Bill,678.5,2025-01-02,Pending
+946,Electric Company,111.91,2024-10-11,Pending
+768,Gym Membership,350.4,2024-10-18,Pending
+89,Internet Service,733.39,2023-12-20,Paid
+500,Insurance Payment,236.71,2024-11-14,Failed
+622,Credit Card Bill,742.74,2024-09-22,Paid
+247,Electric Company,633.36,2025-01-01,Paid
+924,Gym Membership,825.32,2025-02-13,Paid
+42,Mobile Carrier,758.25,2025-02-02,Paid
+402,Streaming Service,968.25,2023-03-16,Pending
+92,Mobile Carrier,869.3,2024-01-23,Paid
+707,Water Utility,519.81,2024-08-29,Failed
+713,Loan Repayment,151.36,2023-11-06,Paid
+635,Water Utility,780.74,2023-06-24,Pending
+262,Water Utility,762.14,2024-02-27,Paid
+135,Streaming Service,685.75,2024-05-26,Failed
+938,Gas Provider,696.56,2025-02-14,Pending
+568,Streaming Service,165.21,2024-07-29,Pending
+885,Streaming Service,494.48,2024-03-18,Paid
+877,Electric Company,216.14,2023-12-05,Paid
+139,Loan Repayment,994.16,2024-08-23,Paid
+366,Loan Repayment,328.21,2024-05-25,Failed
+730,Electric Company,280.88,2024-12-07,Failed
+958,Water Utility,274.27,2024-03-15,Pending
+385,Mobile Carrier,528.47,2023-12-19,Failed
+6,Streaming Service,33.19,2023-07-07,Paid
+859,Internet Service,97.05,2024-02-02,Pending
+45,Gas Provider,952.65,2024-08-04,Pending
+43,Gym Membership,465.4,2023-06-18,Failed
+142,Mobile Carrier,400.87,2024-11-23,Paid
+284,Gym Membership,403.82,2025-01-11,Failed
+567,Internet Service,210.86,2024-10-22,Paid
+444,Insurance Payment,39.03,2023-06-02,Paid
+803,Internet Service,936.05,2024-04-15,Pending
+196,Gym Membership,890.15,2024-12-07,Pending
+271,Streaming Service,737.33,2024-01-20,Failed
+139,Electric Company,250.27,2023-05-17,Paid
+699,Water Utility,964.32,2025-01-21,Failed
+444,Internet Service,722.3,2024-08-31,Paid
+839,Insurance Payment,457.78,2023-08-15,Paid
+632,Credit Card Bill,863.31,2024-05-12,Pending
+925,Insurance Payment,857.29,2023-06-25,Paid
+260,Water Utility,924.32,2024-11-23,Pending
+146,Water Utility,563.72,2024-01-13,Pending
+880,Gas Provider,242.63,2024-05-31,Failed
+58,Water Utility,426.16,2024-07-23,Failed
+554,Gym Membership,598.92,2024-04-14,Failed
+635,Gym Membership,88.89,2023-05-26,Failed
+285,Gas Provider,715.99,2023-08-16,Paid
+221,Electric Company,164.44,2023-11-04,Pending
+773,Loan Repayment,717.91,2024-12-18,Paid
+95,Credit Card Bill,706.0,2024-01-11,Failed
+33,Credit Card Bill,415.8,2024-06-16,Paid
+841,Credit Card Bill,566.6,2023-07-03,Pending
+786,Internet Service,545.37,2024-07-29,Failed
+676,Loan Repayment,278.8,2023-02-20,Paid
+879,Insurance Payment,14.12,2023-09-15,Paid
+58,Water Utility,171.62,2024-06-06,Paid
+193,Gas Provider,102.24,2024-02-18,Failed
+612,Insurance Payment,758.95,2023-09-07,Pending
+141,Streaming Service,36.46,2023-09-25,Paid
+390,Gas Provider,918.52,2023-06-02,Failed
+177,Mobile Carrier,465.17,2023-09-17,Failed
+971,Gas Provider,560.58,2024-03-02,Paid
+211,Credit Card Bill,605.65,2023-05-02,Pending
+371,Electric Company,684.46,2024-07-05,Paid
+199,Credit Card Bill,73.8,2024-03-15,Pending
+510,Gym Membership,733.99,2023-07-08,Failed
+248,Credit Card Bill,891.09,2023-10-25,Paid
+983,Gas Provider,78.44,2024-10-13,Failed
+913,Insurance Payment,148.71,2024-05-04,Failed
+298,Internet Service,383.82,2023-12-07,Pending
+522,Streaming Service,721.63,2023-10-15,Pending
+871,Loan Repayment,562.58,2024-10-31,Pending
+391,Mobile Carrier,38.19,2024-01-18,Pending
+397,Gym Membership,740.36,2023-07-18,Failed
+908,Electric Company,195.23,2024-08-01,Pending
+201,Electric Company,327.61,2024-11-24,Failed
+426,Gym Membership,827.5,2024-06-17,Pending
+593,Credit Card Bill,697.09,2024-12-17,Failed
+83,Insurance Payment,445.8,2024-01-06,Pending
+683,Electric Company,863.57,2024-05-26,Pending
+92,Internet Service,556.92,2023-07-25,Pending
+562,Gas Provider,242.11,2023-04-28,Paid
+216,Mobile Carrier,955.93,2023-08-03,Paid
+910,Credit Card Bill,97.46,2023-12-22,Paid
+200,Credit Card Bill,874.21,2024-11-25,Pending
+307,Credit Card Bill,852.62,2023-09-19,Failed
+419,Electric Company,965.52,2024-02-10,Failed
+87,Electric Company,141.03,2024-03-08,Failed
+564,Mobile Carrier,270.51,2024-12-15,Paid
+599,Mobile Carrier,662.06,2024-01-25,Paid
+39,Water Utility,866.88,2024-08-06,Pending
+30,Gym Membership,276.11,2024-09-21,Paid
+971,Credit Card Bill,769.21,2023-11-30,Pending
+607,Loan Repayment,20.35,2023-10-20,Pending
+890,Electric Company,797.64,2024-09-26,Pending
+538,Credit Card Bill,720.57,2024-09-02,Pending
+775,Gas Provider,92.98,2024-05-07,Failed
+814,Streaming Service,40.47,2024-05-14,Failed
+695,Streaming Service,776.48,2024-06-11,Paid
+629,Gym Membership,604.08,2023-11-23,Paid
+799,Gas Provider,763.53,2023-04-06,Pending
+959,Internet Service,444.11,2024-04-19,Pending
+580,Internet Service,656.76,2024-02-11,Pending
+192,Insurance Payment,447.28,2024-11-07,Pending
+263,Loan Repayment,243.42,2024-01-02,Pending
+916,Water Utility,304.17,2023-05-01,Failed
+363,Mobile Carrier,54.66,2024-10-06,Pending
+42,Internet Service,955.44,2024-03-05,Failed
+133,Credit Card Bill,695.88,2024-09-04,Failed
+137,Loan Repayment,142.26,2024-03-11,Pending
+953,Electric Company,645.08,2024-02-28,Pending
+503,Credit Card Bill,573.32,2024-10-07,Paid
+600,Insurance Payment,520.36,2024-03-09,Pending
+496,Gym Membership,808.55,2024-08-10,Pending
+185,Internet Service,805.82,2024-08-09,Failed
+19,Gym Membership,479.96,2023-11-22,Pending
+553,Gas Provider,241.26,2025-01-03,Failed
+352,Water Utility,944.73,2023-10-26,Failed
+864,Credit Card Bill,221.91,2025-02-15,Failed
+498,Water Utility,837.25,2024-03-13,Paid
+807,Water Utility,595.98,2023-08-25,Failed
+263,Mobile Carrier,630.77,2024-12-13,Pending
+143,Mobile Carrier,537.43,2024-08-29,Failed
+81,Water Utility,135.65,2024-12-25,Paid
+663,Insurance Payment,736.85,2024-10-18,Paid
+398,Electric Company,84.81,2024-01-18,Pending
+933,Water Utility,516.45,2023-03-24,Paid
+815,Gas Provider,437.86,2024-10-21,Failed
+328,Water Utility,617.55,2024-08-22,Paid
+294,Mobile Carrier,147.83,2023-06-02,Failed
+22,Insurance Payment,486.39,2023-11-22,Pending
+632,Mobile Carrier,654.92,2024-04-10,Paid
+100,Loan Repayment,992.46,2024-10-14,Pending
+187,Streaming Service,48.1,2023-02-26,Pending
+465,Streaming Service,961.06,2024-02-29,Paid
+960,Insurance Payment,489.81,2024-10-03,Failed
+573,Electric Company,611.09,2023-03-06,Failed
+114,Loan Repayment,761.66,2024-06-15,Paid
+943,Insurance Payment,98.04,2023-04-27,Pending
+339,Loan Repayment,539.09,2023-12-01,Paid
+915,Streaming Service,547.71,2024-05-17,Paid
+606,Mobile Carrier,448.09,2024-03-13,Paid
+416,Water Utility,982.24,2024-10-26,Pending
+607,Insurance Payment,382.56,2024-03-06,Pending
+125,Loan Repayment,546.11,2023-05-20,Pending
+860,Electric Company,943.64,2024-04-19,Paid
+808,Internet Service,241.02,2024-12-24,Failed
+33,Streaming Service,289.04,2024-09-30,Paid
+945,Streaming Service,572.52,2024-11-23,Paid
+433,Loan Repayment,412.6,2024-02-13,Failed
+877,Water Utility,856.89,2024-10-08,Paid
+744,Credit Card Bill,385.37,2023-07-29,Failed
+352,Loan Repayment,458.99,2024-08-01,Paid
+752,Gym Membership,739.28,2024-12-26,Failed
+647,Internet Service,891.72,2025-01-03,Pending
+217,Mobile Carrier,275.19,2024-03-27,Paid
+710,Mobile Carrier,202.47,2024-10-18,Failed
+697,Insurance Payment,850.31,2024-03-19,Paid
+352,Electric Company,956.89,2024-08-22,Failed
+419,Loan Repayment,999.84,2023-06-02,Failed
+755,Internet Service,735.58,2025-02-03,Failed
+342,Credit Card Bill,252.55,2025-01-15,Paid
+114,Gym Membership,28.28,2024-11-07,Paid
+28,Credit Card Bill,444.31,2023-12-12,Pending
+445,Streaming Service,698.4,2023-10-09,Pending
+553,Loan Repayment,712.38,2024-12-16,Paid
+679,Credit Card Bill,230.36,2024-08-10,Failed
+44,Credit Card Bill,691.11,2023-06-01,Paid
+792,Mobile Carrier,595.39,2025-01-03,Pending
+2,Streaming Service,14.63,2023-12-28,Failed
+894,Internet Service,764.04,2024-06-07,Pending
+459,Electric Company,453.89,2024-09-27,Paid
+407,Loan Repayment,739.71,2024-01-05,Failed
+371,Credit Card Bill,928.06,2024-12-25,Failed
+513,Gas Provider,568.89,2023-04-01,Failed
+576,Gas Provider,596.57,2023-06-21,Failed
+445,Gas Provider,48.47,2023-08-07,Paid
+23,Gas Provider,811.42,2023-06-01,Pending
+800,Loan Repayment,709.49,2024-11-14,Paid
+414,Mobile Carrier,741.78,2024-09-07,Paid
+654,Gym Membership,244.25,2023-03-15,Failed
+305,Gym Membership,953.3,2023-04-21,Pending
+646,Gas Provider,973.68,2024-08-29,Pending
+816,Electric Company,428.5,2025-02-11,Paid
+55,Streaming Service,844.14,2024-10-07,Pending
+622,Gas Provider,652.4,2024-08-05,Paid
+173,Mobile Carrier,307.21,2023-04-04,Paid
+221,Credit Card Bill,183.53,2023-10-28,Pending
+367,Gym Membership,634.94,2023-11-21,Failed
+894,Credit Card Bill,604.28,2024-06-15,Paid
+222,Streaming Service,179.31,2024-05-30,Paid
+830,Credit Card Bill,97.02,2023-06-21,Failed
+730,Insurance Payment,252.42,2024-09-24,Paid
+946,Loan Repayment,682.74,2023-08-13,Paid
+611,Loan Repayment,981.96,2024-08-05,Pending
+856,Insurance Payment,49.06,2024-12-19,Failed
+903,Gas Provider,987.42,2024-02-11,Paid
+359,Streaming Service,434.47,2024-05-08,Pending
+347,Credit Card Bill,503.29,2024-04-16,Paid
+4,Electric Company,152.58,2024-03-24,Pending
+694,Gym Membership,523.05,2023-12-05,Pending
+464,Mobile Carrier,918.82,2024-05-01,Failed
+218,Electric Company,640.04,2024-05-13,Failed
+397,Internet Service,676.95,2024-06-26,Failed
+949,Internet Service,416.47,2024-06-07,Pending
+922,Electric Company,713.51,2024-02-16,Paid
+183,Loan Repayment,639.36,2024-03-22,Paid
+884,Insurance Payment,635.81,2023-03-30,Failed
+19,Internet Service,437.94,2023-08-01,Failed
+384,Electric Company,697.69,2023-12-14,Pending
+917,Gas Provider,94.23,2023-07-22,Pending
+165,Loan Repayment,427.82,2023-07-18,Failed
+870,Gym Membership,285.03,2024-09-26,Pending
+252,Insurance Payment,325.82,2023-05-22,Pending
+519,Loan Repayment,369.66,2024-08-06,Failed
+510,Water Utility,550.49,2023-11-05,Failed
+800,Water Utility,91.81,2024-03-03,Pending
+389,Gym Membership,898.38,2024-02-22,Pending
+728,Insurance Payment,60.64,2023-02-21,Pending
+565,Credit Card Bill,39.71,2023-10-29,Pending
+456,Loan Repayment,988.11,2024-06-22,Failed
+62,Streaming Service,349.11,2024-09-26,Paid
+640,Internet Service,609.45,2024-08-03,Failed
+38,Electric Company,544.55,2023-07-02,Failed
+828,Loan Repayment,72.64,2024-07-28,Paid
+576,Electric Company,355.63,2023-10-08,Paid
+794,Loan Repayment,519.15,2024-01-26,Pending
+828,Electric Company,529.6,2023-05-22,Paid
+549,Electric Company,193.68,2024-09-29,Paid
+225,Electric Company,14.25,2024-08-18,Pending
+878,Mobile Carrier,334.94,2023-06-11,Failed
+779,Gym Membership,707.3,2023-06-12,Paid
+924,Insurance Payment,294.11,2023-07-15,Paid
+245,Water Utility,810.2,2023-08-24,Paid
+892,Insurance Payment,828.23,2024-08-08,Pending
+672,Gas Provider,285.84,2024-09-17,Failed
+497,Gym Membership,844.8,2025-02-07,Pending
+219,Gym Membership,129.29,2024-03-30,Failed
+895,Internet Service,783.48,2023-07-03,Paid
+476,Gas Provider,733.28,2023-11-14,Pending
+276,Credit Card Bill,959.83,2023-06-08,Failed
+925,Gas Provider,79.6,2024-03-20,Pending
+776,Insurance Payment,983.74,2023-08-07,Paid
+117,Internet Service,977.96,2023-03-20,Pending
+253,Gym Membership,726.76,2024-04-12,Pending
+707,Streaming Service,411.18,2023-06-21,Failed
+592,Gas Provider,169.98,2024-03-09,Pending
+238,Mobile Carrier,904.66,2024-11-29,Failed
+370,Mobile Carrier,16.21,2024-06-10,Paid
+226,Gas Provider,913.85,2024-12-25,Paid
+849,Mobile Carrier,797.42,2024-05-03,Pending
+825,Electric Company,811.29,2024-04-26,Paid
+295,Electric Company,671.04,2025-01-12,Failed
+674,Electric Company,351.38,2023-05-17,Failed
+381,Credit Card Bill,431.19,2024-06-22,Pending
+715,Gas Provider,62.05,2024-05-23,Pending
+328,Water Utility,939.4,2023-03-17,Pending
+788,Insurance Payment,960.14,2024-05-29,Failed
+108,Credit Card Bill,939.78,2024-04-27,Pending
+429,Water Utility,424.47,2023-04-03,Failed
+424,Electric Company,409.12,2024-06-02,Pending
+849,Gym Membership,892.63,2023-11-15,Paid
+497,Mobile Carrier,714.34,2023-02-22,Pending
+591,Mobile Carrier,965.34,2024-03-04,Paid
+387,Streaming Service,597.5,2024-10-01,Failed
+972,Mobile Carrier,310.42,2023-11-15,Failed
+725,Electric Company,846.25,2024-08-16,Paid
+903,Electric Company,83.93,2024-01-15,Pending
+549,Loan Repayment,712.38,2024-11-13,Failed
+911,Water Utility,26.86,2024-05-06,Failed
+123,Loan Repayment,736.85,2024-10-24,Paid
+432,Loan Repayment,12.11,2025-02-17,Paid
+238,Loan Repayment,918.79,2025-01-01,Failed
+31,Gas Provider,778.51,2023-09-04,Failed
+487,Streaming Service,124.61,2024-01-21,Paid
+827,Internet Service,47.05,2024-09-19,Pending
+448,Streaming Service,497.42,2024-06-15,Pending
+526,Insurance Payment,484.97,2023-06-05,Failed
+751,Insurance Payment,878.52,2023-12-15,Paid
+206,Electric Company,35.15,2024-01-08,Paid
+252,Streaming Service,199.82,2024-03-24,Failed
+335,Streaming Service,695.52,2023-09-23,Pending
+710,Electric Company,847.25,2024-11-10,Failed
+794,Water Utility,480.11,2024-01-10,Paid
+186,Loan Repayment,23.71,2023-07-03,Failed
+809,Internet Service,355.24,2024-11-10,Pending
+786,Gas Provider,505.03,2024-03-27,Pending
+283,Internet Service,611.56,2025-01-04,Failed
+434,Loan Repayment,123.73,2024-08-24,Paid
+429,Insurance Payment,804.12,2024-08-26,Failed
+757,Credit Card Bill,556.52,2024-12-07,Failed
+826,Gym Membership,716.39,2023-12-13,Pending
+275,Loan Repayment,574.28,2024-10-19,Failed
+432,Insurance Payment,564.73,2024-01-21,Failed
+205,Credit Card Bill,979.12,2025-02-07,Pending
+88,Water Utility,29.88,2023-12-02,Failed
+877,Internet Service,564.62,2023-10-07,Failed
+85,Electric Company,155.42,2023-12-18,Paid
+842,Electric Company,500.74,2024-05-27,Paid
+337,Insurance Payment,398.47,2023-10-15,Pending
+749,Insurance Payment,439.82,2024-10-14,Failed
+395,Water Utility,701.15,2024-12-07,Pending
+115,Water Utility,384.02,2025-01-31,Pending
+780,Water Utility,202.95,2023-10-23,Pending
+7,Gas Provider,607.74,2024-07-31,Failed
+793,Mobile Carrier,589.54,2023-04-20,Pending
+562,Gym Membership,369.2,2024-06-08,Paid
+727,Streaming Service,677.41,2024-02-23,Paid
+629,Gym Membership,719.88,2024-11-02,Pending
+963,Gym Membership,12.71,2023-10-18,Pending
+547,Gas Provider,225.49,2024-07-26,Paid
+4,Insurance Payment,893.2,2024-01-23,Paid
+344,Loan Repayment,64.37,2024-02-26,Paid
+200,Insurance Payment,334.43,2024-03-11,Pending
+136,Credit Card Bill,825.94,2023-11-18,Failed
+775,Insurance Payment,432.27,2024-05-05,Failed
+810,Gas Provider,986.8,2025-02-08,Failed
+679,Gym Membership,584.11,2023-12-08,Failed
+712,Insurance Payment,15.04,2025-01-23,Pending
+620,Loan Repayment,138.97,2023-07-01,Failed
+155,Mobile Carrier,646.67,2023-05-01,Failed
+228,Water Utility,38.41,2024-09-05,Paid
+722,Mobile Carrier,700.43,2023-06-23,Paid
+812,Water Utility,558.13,2024-09-24,Failed
+866,Gas Provider,799.3,2024-02-12,Failed
+84,Water Utility,744.84,2024-08-14,Paid
+362,Streaming Service,324.4,2023-08-29,Paid
+358,Water Utility,197.48,2023-09-25,Failed
+186,Credit Card Bill,352.27,2023-12-21,Paid
+890,Gym Membership,714.18,2023-11-10,Failed
+817,Credit Card Bill,595.63,2023-09-01,Failed
+342,Insurance Payment,649.89,2025-01-02,Failed
+580,Streaming Service,354.41,2024-11-28,Paid
+879,Mobile Carrier,995.0,2023-05-04,Paid
+948,Water Utility,615.57,2023-04-12,Pending
+686,Water Utility,380.2,2024-07-03,Pending
+613,Loan Repayment,81.89,2024-10-26,Pending
+219,Internet Service,248.94,2024-04-15,Paid
+382,Gym Membership,830.37,2023-10-21,Failed
+108,Credit Card Bill,363.76,2024-11-29,Failed
+191,Water Utility,775.89,2024-02-13,Paid
+815,Internet Service,491.21,2023-07-22,Paid
+28,Internet Service,660.56,2023-03-15,Paid
+618,Mobile Carrier,866.56,2024-02-01,Failed
+338,Gym Membership,89.48,2024-06-14,Pending
+742,Streaming Service,456.29,2024-01-30,Pending
+170,Gas Provider,348.68,2024-12-11,Pending
+128,Insurance Payment,38.52,2023-10-15,Failed
+665,Mobile Carrier,474.69,2024-08-31,Paid
+769,Mobile Carrier,726.91,2024-10-28,Failed
+185,Internet Service,325.25,2025-02-03,Paid
+184,Insurance Payment,659.57,2024-02-09,Pending
+3,Loan Repayment,386.36,2023-02-22,Paid
+17,Electric Company,90.14,2024-03-04,Failed
+457,Loan Repayment,350.91,2023-08-08,Pending
+165,Electric Company,366.75,2023-08-20,Failed
+764,Credit Card Bill,958.63,2023-06-30,Paid
+823,Loan Repayment,897.68,2025-01-07,Failed
+515,Mobile Carrier,790.8,2024-10-04,Pending
+904,Insurance Payment,475.68,2023-08-27,Failed
+358,Credit Card Bill,624.39,2023-03-19,Pending
+683,Gas Provider,10.73,2023-09-29,Paid
+826,Streaming Service,760.3,2024-07-23,Failed
+140,Gas Provider,645.16,2024-06-03,Pending
+211,Electric Company,109.42,2023-12-08,Failed
+951,Gas Provider,370.48,2023-05-03,Paid
+761,Gas Provider,113.95,2023-04-12,Failed
+258,Streaming Service,640.52,2023-06-25,Failed
+541,Mobile Carrier,368.06,2023-07-27,Failed
+205,Streaming Service,271.72,2024-03-31,Pending
+495,Gas Provider,926.97,2023-10-03,Pending
+347,Gym Membership,952.59,2024-10-23,Failed
+141,Electric Company,180.16,2024-05-08,Failed
+896,Credit Card Bill,47.27,2023-12-07,Pending
+727,Credit Card Bill,331.2,2023-06-18,Failed
+140,Credit Card Bill,102.03,2023-06-08,Pending
+162,Streaming Service,812.03,2024-01-11,Pending
+484,Loan Repayment,947.16,2023-11-16,Paid
+588,Credit Card Bill,470.76,2024-02-16,Paid
+137,Credit Card Bill,245.52,2023-09-14,Failed
+888,Gas Provider,61.66,2023-08-30,Failed
+464,Gas Provider,642.15,2023-03-16,Paid
+348,Loan Repayment,818.65,2024-08-27,Failed
+547,Electric Company,660.35,2024-12-02,Pending
+415,Mobile Carrier,41.9,2024-06-17,Pending
+332,Gym Membership,398.3,2024-03-09,Failed
+747,Gym Membership,279.95,2023-03-26,Paid
+225,Credit Card Bill,930.65,2023-05-02,Pending
+712,Electric Company,419.38,2023-12-06,Pending
+313,Streaming Service,450.4,2025-01-12,Failed
+911,Loan Repayment,559.09,2025-02-12,Paid
+567,Gas Provider,826.45,2023-08-25,Pending
+43,Gym Membership,417.07,2024-09-06,Pending
+591,Credit Card Bill,770.83,2023-09-22,Failed
+47,Insurance Payment,48.76,2024-04-13,Failed
+12,Streaming Service,785.21,2024-11-10,Paid
+497,Streaming Service,808.51,2023-05-21,Paid
+325,Streaming Service,19.09,2023-04-27,Pending
+243,Gas Provider,49.72,2024-09-17,Failed
+310,Loan Repayment,537.45,2024-10-01,Paid
+766,Loan Repayment,690.0,2023-11-09,Pending
+822,Credit Card Bill,615.55,2025-01-10,Failed
+888,Electric Company,65.29,2023-09-06,Pending
+912,Credit Card Bill,492.02,2024-03-27,Paid
+128,Mobile Carrier,330.85,2024-01-07,Pending
+874,Credit Card Bill,88.68,2023-04-01,Pending
+429,Mobile Carrier,921.58,2023-07-10,Paid
+883,Gym Membership,567.02,2024-12-15,Pending
+28,Water Utility,347.46,2024-10-01,Pending
+95,Water Utility,595.54,2024-03-09,Failed
+950,Gas Provider,20.27,2023-11-19,Failed
+522,Water Utility,239.78,2024-08-17,Failed
+234,Mobile Carrier,913.46,2023-05-22,Failed
+241,Electric Company,166.49,2023-02-21,Paid
+658,Loan Repayment,965.61,2024-03-20,Pending
+141,Loan Repayment,11.5,2023-04-25,Paid
+777,Gas Provider,762.17,2023-05-28,Pending
+422,Internet Service,914.74,2024-02-01,Pending
+485,Internet Service,441.05,2024-09-23,Failed
+139,Insurance Payment,720.4,2024-04-23,Paid
+768,Gas Provider,46.15,2024-04-04,Paid
+965,Water Utility,884.84,2024-02-09,Pending
+42,Electric Company,502.56,2024-01-29,Pending
+121,Internet Service,137.43,2024-12-30,Paid
+970,Credit Card Bill,748.76,2025-01-03,Pending
+316,Water Utility,416.02,2023-09-03,Pending
+658,Electric Company,668.56,2023-10-07,Pending
+146,Gym Membership,741.82,2023-03-19,Paid
+698,Water Utility,950.8,2023-10-16,Paid
+201,Insurance Payment,228.05,2024-04-17,Failed
+449,Internet Service,78.84,2023-07-28,Failed
+482,Loan Repayment,489.32,2024-06-29,Failed
+878,Gas Provider,206.64,2024-10-21,Pending
+202,Streaming Service,87.32,2023-09-17,Pending
+683,Gym Membership,918.81,2024-05-20,Paid

@@ -1,0 +1,101 @@
+Customer_ID,Case_Type,Status,Investigator_ID
+180,Unusual Transactions,Closed,1014
+471,High-Risk Transfers,Closed,276
+42,Smurfing,Under Investigation,894
+692,Unusual Transactions,Under Investigation,776
+824,Structuring,Closed,1337
+806,Layering,Closed,1102
+253,Structuring,Closed,1073
+29,Structuring,Closed,1076
+761,Smurfing,Closed,186
+463,Unusual Transactions,Open,1093
+864,Unusual Transactions,Under Investigation,946
+131,Layering,Closed,988
+996,Unusual Transactions,Closed,485
+572,Structuring,Under Investigation,343
+802,High-Risk Transfers,Open,1038
+912,High-Risk Transfers,Under Investigation,411
+822,Unusual Transactions,Closed,835
+558,Smurfing,Open,1329
+853,Layering,Open,1273
+281,Unusual Transactions,Under Investigation,488
+52,Smurfing,Under Investigation,335
+7,Layering,Under Investigation,236
+226,Structuring,Closed,105
+326,Layering,Closed,990
+554,Structuring,Open,294
+911,Structuring,Open,1237
+337,Unusual Transactions,Under Investigation,549
+456,Unusual Transactions,Under Investigation,606
+702,Smurfing,Open,136
+751,Smurfing,Closed,119
+49,Layering,Open,56
+463,High-Risk Transfers,Open,732
+672,Structuring,Under Investigation,234
+490,Structuring,Under Investigation,955
+837,Layering,Closed,517
+540,Structuring,Open,739
+860,High-Risk Transfers,Under Investigation,790
+273,Unusual Transactions,Open,1060
+50,Structuring,Closed,280
+364,Layering,Open,923
+344,Unusual Transactions,Under Investigation,156
+974,Layering,Closed,898
+514,Structuring,Open,338
+103,Unusual Transactions,Under Investigation,533
+377,Structuring,Open,1017
+582,High-Risk Transfers,Closed,467
+807,Layering,Closed,293
+191,Unusual Transactions,Closed,847
+235,Structuring,Under Investigation,107
+339,Unusual Transactions,Closed,477
+720,Structuring,Under Investigation,588
+538,Unusual Transactions,Under Investigation,1160
+609,Layering,Open,858
+471,Unusual Transactions,Open,211
+430,Structuring,Open,313
+663,Layering,Open,809
+650,Smurfing,Closed,1191
+720,Unusual Transactions,Open,473
+406,Unusual Transactions,Closed,172
+202,Smurfing,Open,1030
+13,Layering,Open,635
+257,High-Risk Transfers,Open,174
+21,Smurfing,Under Investigation,814
+759,Smurfing,Under Investigation,1089
+960,Layering,Open,527
+988,Unusual Transactions,Closed,1269
+590,Unusual Transactions,Under Investigation,799
+288,Layering,Open,249
+722,High-Risk Transfers,Closed,87
+829,Unusual Transactions,Closed,103
+449,High-Risk Transfers,Under Investigation,1265
+173,Layering,Under Investigation,1312
+814,Unusual Transactions,Closed,822
+442,High-Risk Transfers,Open,272
+301,Smurfing,Closed,1062
+295,Structuring,Open,795
+774,Structuring,Closed,187
+774,Structuring,Under Investigation,258
+387,High-Risk Transfers,Under Investigation,675
+444,Layering,Closed,1123
+448,High-Risk Transfers,Open,917
+279,High-Risk Transfers,Open,816
+905,Smurfing,Open,318
+779,Layering,Open,1157
+611,Smurfing,Open,211
+525,Smurfing,Open,663
+834,Smurfing,Under Investigation,290
+270,Structuring,Closed,176
+745,Layering,Closed,1059
+418,Layering,Open,886
+153,Layering,Open,537
+517,Unusual Transactions,Open,981
+583,Unusual Transactions,Under Investigation,1257
+487,High-Risk Transfers,Open,244
+217,Smurfing,Open,301
+118,Layering,Open,1318
+318,High-Risk Transfers,Under Investigation,501
+115,Smurfing,Under Investigation,521
+971,Layering,Open,1212
+913,High-Risk Transfers,Open,1216

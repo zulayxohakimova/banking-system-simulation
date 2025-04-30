@@ -1,0 +1,1301 @@
+Employee_ID,Branch_ID,Full_Name,Position,Department_ID,Salary,Hire_Date,Status
+1,668,Kyle Gay,Security Officer,18,116049.83,2024-09-04,Resigned
+2,581,Christina Garza,HR Manager,18,52823.44,2017-11-19,Resigned
+3,388,Dana Blankenship,Credit Analyst,9,84343.19,2017-09-14,Resigned
+4,230,Michael Johnson,Credit Analyst,17,117160.76,2017-11-29,Active
+5,310,Debbie Smith,Compliance Officer,3,51736.39,2016-01-30,Resigned
+6,51,Bruce Phillips,Data Analyst,23,81849.16,2016-11-03,Resigned
+7,356,Steven Preston,Investment Advisor,19,46527.65,2023-02-25,Resigned
+8,253,Dustin Greene,Customer Service Representative,24,108527.17,2023-08-12,Resigned
+9,227,Jennifer Salas,IT Support,22,62076.05,2018-04-08,Resigned
+10,497,Elizabeth Taylor MD,Bank Teller,10,43474.71,2020-06-10,Resigned
+11,451,Kelly Alvarado,HR Manager,7,119819.65,2020-10-30,On Leave
+12,495,Steven Cox,Financial Analyst,21,116525.71,2015-10-21,Active
+13,301,Roy Cameron,Risk Manager,14,105442.36,2021-02-16,On Leave
+14,446,Adam Mcdonald,Credit Analyst,4,117930.19,2022-11-20,Active
+15,218,Matthew Small,Compliance Officer,12,57396.3,2015-03-18,On Leave
+16,305,Adam Rodriguez,Loan Officer,15,65831.1,2018-06-29,Active
+17,271,Brian Rasmussen,Branch Manager,10,70447.19,2020-11-13,On Leave
+18,699,Chad Warren,Financial Analyst,24,62042.23,2024-02-24,On Leave
+19,178,Charles Parker,Customer Service Representative,27,37309.24,2022-06-25,Active
+20,612,Angela Suarez,Branch Manager,5,94697.89,2023-11-10,On Leave
+21,636,Steven Rice,Investment Advisor,21,113205.7,2024-03-30,Resigned
+22,530,Nicole Rollins,Investment Advisor,9,118659.06,2020-12-20,On Leave
+23,13,Charles Short,Risk Manager,30,118777.38,2015-04-05,Resigned
+24,267,Bradley Cross,Security Officer,10,115760.64,2021-05-04,On Leave
+25,470,Jessica Sharp,HR Manager,22,70473.15,2016-05-17,Active
+26,425,Kyle Montoya,Bank Teller,18,71550.47,2017-07-26,Active
+27,54,Samuel Powell,Accountant,23,66436.9,2019-03-30,Active
+28,220,Jennifer King,Investment Advisor,27,32663.88,2019-04-17,On Leave
+29,641,Zachary Salas,Data Analyst,19,34492.17,2020-11-19,Active
+30,260,Kevin Berg,Financial Analyst,22,59399.76,2020-12-01,Resigned
+31,544,Randall Huang,Credit Analyst,5,30910.17,2016-05-15,Resigned
+32,400,Brian Bennett,Credit Analyst,7,113477.07,2025-01-15,Active
+33,594,Brittney Lopez,Financial Analyst,2,117097.13,2018-09-24,Resigned
+34,471,Philip Benson DDS,Data Analyst,18,52214.76,2016-06-04,Active
+35,403,Deborah Lynch,Financial Analyst,12,94517.18,2021-02-11,Resigned
+36,105,Chad Duncan,Branch Manager,13,97887.2,2023-11-22,On Leave
+37,436,Diana Sanchez,IT Support,13,109086.66,2018-11-18,On Leave
+38,200,Mikayla Jones,Bank Teller,10,54894.93,2016-10-30,Active
+39,53,Christina Carpenter PhD,Bank Teller,28,101926.23,2022-04-26,Active
+40,333,Rebecca Miller,Data Analyst,17,91714.01,2023-02-17,Resigned
+41,443,Mrs. Olivia Salazar,IT Support,3,104309.28,2017-09-09,Active
+42,479,Amy Jones,HR Manager,10,119166.34,2018-07-27,Resigned
+43,13,Amy Morrison,Branch Manager,21,108981.81,2024-06-11,On Leave
+44,367,Veronica Doyle,Loan Officer,27,61917.61,2020-08-28,On Leave
+45,153,Alexander Phillips,Investment Advisor,21,60135.32,2020-09-08,On Leave
+46,51,Angela White,IT Support,19,41180.05,2020-07-15,Active
+47,1,William Henderson,Compliance Officer,10,114532.32,2020-12-10,On Leave
+48,558,Sonya Walters,IT Support,21,70526.97,2021-12-07,On Leave
+49,20,Rachel Moore,Risk Manager,30,87158.89,2025-02-07,On Leave
+50,449,Jerry Weiss,Investment Advisor,14,102028.61,2025-02-17,Active
+51,468,Kylie Blair,Risk Manager,24,84633.63,2024-02-23,On Leave
+52,467,Brandon Chaney,Security Officer,2,76821.81,2019-07-19,On Leave
+53,245,Jason Parks,Credit Analyst,10,107568.83,2020-12-20,On Leave
+54,174,Kimberly Valdez,Accountant,27,90421.46,2017-07-30,On Leave
+55,448,Robert Crawford,Customer Service Representative,3,67461.71,2020-05-01,On Leave
+56,438,Mark Robinson,Customer Service Representative,7,109422.93,2024-10-02,Resigned
+57,285,Brittany Pennington,Customer Service Representative,2,45689.34,2021-01-19,Resigned
+58,259,Vanessa Mendez DDS,Loan Officer,13,118418.39,2022-04-01,Resigned
+59,167,Michael Choi,Compliance Officer,2,58610.38,2024-09-24,Resigned
+60,255,Kimberly Russell,Security Officer,15,87412.18,2016-05-27,On Leave
+61,470,Judith Compton,Loan Officer,30,102336.86,2021-07-30,Resigned
+62,215,Felicia Cardenas,HR Manager,15,39648.27,2025-01-22,On Leave
+63,350,Richard Phillips,Security Officer,24,33684.3,2018-05-10,Resigned
+64,550,William Cook,HR Manager,1,92950.36,2023-02-10,On Leave
+65,628,Denise Ramirez,Branch Manager,27,61419.31,2024-03-22,Active
+66,486,Mark Wright,Branch Manager,11,104206.33,2015-07-28,Resigned
+67,156,Ashley Walls,Customer Service Representative,14,64880.23,2017-02-10,Resigned
+68,164,Shane Cowan,Loan Officer,14,85206.93,2024-11-19,Resigned
+69,239,Nathan Landry,Loan Officer,23,72704.75,2018-10-31,Resigned
+70,268,Melinda Wright,Bank Teller,27,99487.03,2023-02-28,Active
+71,456,Grace Woods,Investment Advisor,14,89111.52,2015-08-21,Active
+72,8,Michael Combs,Risk Manager,9,48969.72,2024-07-02,Resigned
+73,347,James Eaton,Bank Teller,4,48335.38,2015-09-11,On Leave
+74,357,Thomas Ramirez,Credit Analyst,23,114439.46,2022-02-23,On Leave
+75,371,Walter Jones,HR Manager,12,111461.45,2022-05-25,Active
+76,624,Lisa Malone,Credit Analyst,13,107162.85,2016-01-31,Active
+77,635,Felicia Herman,Bank Teller,18,100565.3,2017-05-13,Active
+78,646,Jacqueline Hester DVM,Customer Service Representative,23,91622.6,2022-12-05,Resigned
+79,677,Benjamin Singleton,HR Manager,11,119013.4,2019-04-16,On Leave
+80,357,Julia Lopez,Bank Teller,9,94995.59,2019-03-20,Active
+81,59,Eugene Martinez,Compliance Officer,2,102392.03,2019-02-15,On Leave
+82,172,Curtis Gonzales,Compliance Officer,26,70048.11,2021-06-22,Resigned
+83,52,Natalie Rogers MD,Loan Officer,14,47564.09,2021-03-23,On Leave
+84,90,Parker Steele,Credit Analyst,5,102747.0,2018-12-22,On Leave
+85,175,Matthew Olson,HR Manager,21,64841.92,2021-09-01,Resigned
+86,120,Morgan Davenport,Financial Analyst,30,86786.73,2021-03-08,On Leave
+87,39,Sara Moran,Financial Analyst,16,31332.35,2017-04-26,Resigned
+88,459,Brian Mcbride,Security Officer,11,39301.12,2018-07-14,Active
+89,411,Tammy Peterson,Accountant,20,113266.11,2015-06-29,Active
+90,221,Zachary Mccarthy,Bank Teller,15,75122.84,2015-04-07,Resigned
+91,540,Michael Scott,Investment Advisor,9,52009.02,2017-12-24,Resigned
+92,520,Kimberly Brown,Security Officer,1,81414.56,2017-07-11,Active
+93,20,Brandon Sullivan,Compliance Officer,21,101275.83,2016-12-28,On Leave
+94,338,Jon Nguyen,Branch Manager,15,82415.26,2016-03-24,Active
+95,478,Michelle Francis,Accountant,1,54145.77,2021-12-28,Active
+96,644,Lindsey French,Compliance Officer,11,83519.13,2022-06-02,Active
+97,378,Kevin Mann,Compliance Officer,13,93495.77,2021-06-24,Resigned
+98,327,David Diaz,Security Officer,15,38865.94,2018-05-25,On Leave
+99,269,Dustin Davis,Data Analyst,8,98055.57,2022-06-24,On Leave
+100,569,Lisa Jones,Security Officer,24,100643.28,2024-12-09,Resigned
+101,652,Austin Brock,Branch Manager,16,76435.77,2016-09-18,Active
+102,462,Jonathan Melendez,Loan Officer,27,50117.17,2019-12-10,On Leave
+103,229,Cynthia Marshall,Security Officer,25,51316.06,2018-06-05,Resigned
+104,307,Stephanie Warren,IT Support,22,90383.6,2019-06-03,Resigned
+105,607,Susan Willis,Security Officer,25,104279.51,2023-05-18,On Leave
+106,347,Raymond Boyd,Investment Advisor,19,84358.56,2016-01-14,Resigned
+107,166,Anthony Briggs,Compliance Officer,25,59488.39,2016-05-24,Resigned
+108,105,Carla Kane,Customer Service Representative,30,78775.16,2016-02-04,On Leave
+109,112,Daniel Garner,Compliance Officer,30,56234.47,2024-02-21,On Leave
+110,125,Mark Hoffman DVM,IT Support,12,34538.68,2017-06-10,Resigned
+111,151,Joseph Cannon,Customer Service Representative,9,89930.32,2024-01-01,Active
+112,26,Kim Hicks,IT Support,30,97564.15,2017-10-24,Resigned
+113,503,Emily Wells,Bank Teller,26,87238.9,2023-04-15,Resigned
+114,181,Renee Davis,Loan Officer,10,30110.5,2022-10-06,On Leave
+115,338,Jennifer Coleman,Investment Advisor,9,65560.52,2021-07-28,On Leave
+116,423,Andrea Mack,Accountant,13,80730.17,2019-12-21,Active
+117,328,Kyle Hudson,IT Support,4,115526.13,2023-06-17,Active
+118,341,Charles Romero,Loan Officer,8,71232.77,2021-01-30,Resigned
+119,167,Mark Kelly,Branch Manager,20,75857.19,2017-11-01,On Leave
+120,548,Marie Vasquez,Bank Teller,28,105637.28,2021-07-21,Active
+121,128,Ann Mcdaniel,Data Analyst,23,83043.86,2021-06-15,Active
+122,523,Cory Mullen,Data Analyst,16,98210.56,2018-03-16,Resigned
+123,298,Jennifer Reyes,IT Support,24,70603.7,2019-08-08,On Leave
+124,153,David Gray,Loan Officer,19,93552.25,2017-10-31,On Leave
+125,384,Natasha Roberts,Customer Service Representative,24,78862.98,2019-07-18,Resigned
+126,318,Misty Mcdowell,HR Manager,19,67102.78,2018-02-02,On Leave
+127,122,Patrick Scott,Bank Teller,2,109639.62,2024-02-22,Active
+128,286,Lawrence Harris,Bank Teller,28,53212.73,2015-12-06,Active
+129,531,Meghan Riley,Accountant,11,82168.27,2020-01-20,On Leave
+130,628,Michael Hoffman,Accountant,4,35743.44,2017-04-03,Resigned
+131,266,Brenda Lopez,Risk Manager,29,95264.75,2018-11-06,Resigned
+132,443,James Malone,Investment Advisor,4,50961.26,2018-08-24,On Leave
+133,624,Christopher Cox,Financial Analyst,27,112337.91,2024-10-06,On Leave
+134,139,Lauren Warren,HR Manager,28,107765.5,2015-05-26,Active
+135,636,Mike Parks,Security Officer,14,72743.77,2020-04-25,On Leave
+136,30,Justin Pitts,HR Manager,30,88150.98,2019-04-29,Active
+137,75,Michael Hatfield,Compliance Officer,22,115629.55,2021-08-29,Active
+138,630,Carolyn Petersen,Credit Analyst,1,67280.56,2019-07-22,On Leave
+139,513,Michelle Sanchez,Investment Advisor,20,50454.15,2015-08-05,Resigned
+140,40,Walter Pham,Data Analyst,21,113661.45,2020-07-15,On Leave
+141,401,George Jenkins,Loan Officer,9,36948.43,2024-04-12,On Leave
+142,465,Brandon Simmons,Risk Manager,4,50902.54,2020-09-07,Active
+143,410,Elizabeth Brown,HR Manager,6,37031.8,2022-01-16,Resigned
+144,71,Calvin Owens,Bank Teller,17,74659.63,2023-05-19,Resigned
+145,39,Alicia Jackson,Financial Analyst,23,36991.28,2023-03-11,On Leave
+146,1,Robert Myers,Branch Manager,28,52094.19,2015-11-29,Resigned
+147,447,Lori Morales,Data Analyst,12,74617.33,2021-03-26,Active
+148,507,Michael Moore,HR Manager,22,96160.44,2018-03-27,On Leave
+149,280,Daniel Robles,Accountant,17,94524.99,2024-01-30,Active
+150,166,Shelby Pierce,Risk Manager,5,71303.57,2024-09-06,On Leave
+151,34,Keith Brown,Risk Manager,12,45558.66,2019-04-05,Active
+152,270,Wendy Rodriguez,HR Manager,25,105895.92,2022-04-24,Resigned
+153,479,Jeffrey Barnes,Accountant,30,56426.86,2018-09-12,On Leave
+154,322,David Moran,Credit Analyst,2,112208.92,2024-05-15,On Leave
+155,434,Luke Berger,Risk Manager,3,30803.03,2022-06-10,On Leave
+156,364,Veronica Crawford,Branch Manager,8,38830.53,2019-12-31,Active
+157,82,Mary Mckenzie,Investment Advisor,14,45593.2,2019-03-02,Active
+158,315,Mr. Steven Ali PhD,IT Support,28,111724.72,2015-04-08,On Leave
+159,644,Emily Gray,IT Support,24,108068.13,2019-01-25,Resigned
+160,8,Timothy Brown,Compliance Officer,26,111240.42,2024-08-05,Active
+161,445,Shelby Collins,Risk Manager,4,40737.14,2021-08-12,Active
+162,240,Brandon Brennan,Bank Teller,15,34055.68,2019-04-22,Active
+163,225,Tracy Collins,Risk Manager,30,68099.87,2016-04-20,On Leave
+164,666,Kathleen Young,Credit Analyst,26,91564.87,2020-06-13,Active
+165,349,Matthew Ryan,Customer Service Representative,2,59228.49,2024-05-22,Resigned
+166,574,Rebecca Howard,Accountant,3,119809.91,2024-12-19,Active
+167,61,Melinda Perez,Compliance Officer,21,48846.13,2023-04-04,Resigned
+168,305,Colton Richards,Compliance Officer,3,111510.06,2016-09-30,On Leave
+169,544,Timothy Christian,Investment Advisor,8,61940.41,2021-01-15,On Leave
+170,414,Benjamin Hardy,Risk Manager,23,76777.84,2023-06-27,On Leave
+171,142,Erica Chandler,IT Support,5,57085.01,2020-08-19,Active
+172,463,Stefanie Martin,Customer Service Representative,17,69182.15,2021-11-03,On Leave
+173,583,Chelsea Johnson,HR Manager,5,62828.51,2021-11-04,Resigned
+174,574,Vanessa Johnston,Security Officer,12,87650.03,2020-02-28,On Leave
+175,33,Amy Jacobs,Financial Analyst,12,95837.11,2018-02-01,Resigned
+176,514,Stephen Reed,Accountant,13,86324.45,2018-12-31,On Leave
+177,296,Kenneth Hess,Bank Teller,25,76157.36,2020-01-14,Resigned
+178,471,Gina Powell MD,Credit Analyst,4,50933.12,2016-02-02,Active
+179,246,John Perry,Loan Officer,28,74599.92,2024-12-29,Active
+180,216,Gary Jenkins,Investment Advisor,8,92481.45,2018-11-29,Resigned
+181,104,Marcus Walker,Investment Advisor,18,90137.79,2018-08-05,Resigned
+182,158,David Vaughan,HR Manager,23,73870.9,2018-05-27,On Leave
+183,420,Holly Reyes,Compliance Officer,19,92550.82,2018-12-25,Active
+184,15,Heather Hicks,Compliance Officer,24,93512.12,2024-01-16,On Leave
+185,669,Jennifer Martin,Accountant,21,116953.71,2024-08-18,Active
+186,176,Zachary Anderson,Risk Manager,18,118262.55,2015-10-13,On Leave
+187,206,Shawn Smith,Accountant,15,112320.66,2017-09-11,Active
+188,607,Carlos Davis,Security Officer,14,69912.08,2020-03-10,Resigned
+189,340,Bobby Ross,Investment Advisor,10,47883.1,2020-06-09,On Leave
+190,407,Cameron Parker,Compliance Officer,2,46668.99,2018-11-29,Active
+191,451,Randall Wells,Data Analyst,18,94871.17,2022-06-02,Active
+192,446,Chelsea Mathews,Credit Analyst,14,88499.11,2022-05-22,Resigned
+193,136,Debra Johnson,Data Analyst,15,31684.1,2021-03-27,Resigned
+194,584,Dr. Peter Robinson,HR Manager,22,109510.74,2021-03-01,Resigned
+195,607,Erica Lee,Branch Manager,26,94976.97,2019-08-22,Active
+196,650,Brian Wyatt,Compliance Officer,18,73930.27,2019-07-01,Active
+197,619,Sarah Chambers,Financial Analyst,1,118959.55,2021-02-27,Resigned
+198,676,Jennifer Whitaker DDS,Customer Service Representative,3,40287.57,2016-04-07,On Leave
+199,180,William Fry,HR Manager,10,82390.52,2023-03-29,Resigned
+200,369,Thomas Williams,Accountant,25,105096.26,2016-05-27,Resigned
+201,691,Tiffany Johnson,Financial Analyst,26,97645.01,2018-09-03,Active
+202,489,Julie Hester,Credit Analyst,3,118702.1,2022-10-01,Resigned
+203,422,Mark Larson,IT Support,24,61003.61,2018-03-09,Active
+204,390,Tiffany Cowan,Security Officer,22,87485.08,2021-05-06,Active
+205,22,Angela Turner,Financial Analyst,12,93629.63,2020-03-02,Active
+206,149,Cynthia Douglas,HR Manager,30,111293.96,2024-12-08,On Leave
+207,312,Matthew Black,Accountant,10,108299.05,2016-08-19,Active
+208,689,Kristin Brown,Branch Manager,18,39718.66,2015-11-18,Resigned
+209,230,Anthony Dillon,IT Support,24,35981.72,2020-11-27,Active
+210,488,Justin Kent,IT Support,26,40771.87,2017-02-18,Active
+211,52,Thomas Rivera MD,Security Officer,5,31243.54,2024-02-28,Active
+212,74,Phyllis Greene,Credit Analyst,27,116187.75,2018-01-05,On Leave
+213,160,Ashley Carroll,Financial Analyst,15,58122.67,2023-04-25,Active
+214,307,Tonya Walters,Loan Officer,1,67841.82,2020-06-11,On Leave
+215,83,Gerald Ho,Risk Manager,25,42685.75,2016-01-07,Active
+216,638,Heidi Shepherd,Customer Service Representative,13,69142.22,2017-03-29,On Leave
+217,443,Ashley Russell,Investment Advisor,16,82467.5,2023-09-21,Active
+218,136,Daniel Moore,Loan Officer,3,30905.66,2015-09-23,Resigned
+219,621,Randy Hays,Investment Advisor,19,106888.47,2016-09-21,Active
+220,417,Robert Torres,Compliance Officer,17,82630.26,2022-01-25,On Leave
+221,155,Daniel Harris,Customer Service Representative,9,82791.94,2020-12-22,On Leave
+222,266,Melanie Hooper,Compliance Officer,28,101375.34,2018-01-13,On Leave
+223,303,Kaitlyn Hart,Data Analyst,29,77591.71,2019-03-28,Resigned
+224,189,Michael Gonzalez,Loan Officer,12,90932.71,2017-12-03,Active
+225,647,James Howard,Bank Teller,17,58774.91,2015-04-06,Resigned
+226,300,Dr. James Martinez,Financial Analyst,30,68976.77,2024-11-17,Resigned
+227,160,Michael Mack,Branch Manager,5,109416.11,2022-10-10,Active
+228,259,Karen Wall,Financial Analyst,11,69658.13,2021-07-23,Resigned
+229,100,Anthony Perry,IT Support,13,63518.62,2023-07-30,Active
+230,435,Gregory Goodman,Data Analyst,1,48695.22,2021-03-21,Resigned
+231,109,Tammy Williams,Security Officer,3,60346.52,2024-09-23,Resigned
+232,589,Shawn Obrien,Loan Officer,20,44686.76,2020-10-16,Resigned
+233,592,Scott Davis,Financial Analyst,28,67598.23,2024-08-19,Resigned
+234,586,Michael Richard,Bank Teller,6,54867.99,2020-04-04,Resigned
+235,517,Ronald Lewis,Branch Manager,20,44655.15,2016-01-10,Active
+236,364,Meghan Miller,Data Analyst,3,97081.49,2015-03-14,Resigned
+237,36,Tony Walker,HR Manager,4,48106.32,2024-11-11,Resigned
+238,655,Karen Cruz,Security Officer,22,104236.3,2021-10-15,Resigned
+239,156,Julie Smith,Financial Analyst,15,32111.25,2015-05-14,On Leave
+240,218,Juan Gonzalez,HR Manager,25,53776.67,2021-04-21,On Leave
+241,454,Douglas Payne,Risk Manager,14,51190.3,2017-10-09,Active
+242,560,Thomas Garza,HR Manager,21,30779.08,2020-07-31,Active
+243,95,Adam Hudson,Bank Teller,16,65450.0,2024-03-20,Resigned
+244,16,Elizabeth Jackson,Bank Teller,2,53095.04,2020-06-07,Resigned
+245,248,Jennifer Mitchell,Branch Manager,5,67962.61,2022-03-06,Active
+246,689,Nathan Jordan,HR Manager,18,88330.6,2016-09-16,Resigned
+247,595,Stephanie Michael,Investment Advisor,17,33596.22,2016-05-14,On Leave
+248,540,Bridget Miranda,Compliance Officer,21,98383.0,2018-03-31,On Leave
+249,280,Christine Garcia,Financial Analyst,9,66361.34,2018-08-26,Active
+250,3,James Cook,Financial Analyst,14,81516.34,2024-04-08,On Leave
+251,46,Mary Miller,HR Manager,14,33477.33,2018-08-25,Active
+252,536,David Bates,Investment Advisor,29,73025.9,2016-10-25,On Leave
+253,28,Joseph Miller,Risk Manager,24,39556.71,2017-10-10,Active
+254,635,Kevin Hayes,Financial Analyst,20,117112.24,2017-12-15,Active
+255,487,Amanda Mendez,Security Officer,15,50095.94,2020-10-14,On Leave
+256,8,Mary Sullivan,Branch Manager,13,98597.9,2020-04-30,On Leave
+257,361,Elizabeth Simmons,Data Analyst,28,37485.55,2018-05-03,Resigned
+258,663,Linda Ryan,Branch Manager,1,114409.95,2021-04-30,Active
+259,238,Marie Green,Security Officer,27,45993.79,2016-07-10,On Leave
+260,108,Steve Carroll,Loan Officer,29,102512.29,2021-12-31,Active
+261,551,Rebecca Colon,Bank Teller,20,110723.99,2016-11-22,On Leave
+262,17,James Love,Customer Service Representative,3,84422.77,2015-07-12,On Leave
+263,515,Elizabeth Davenport,Credit Analyst,22,39542.08,2024-02-29,On Leave
+264,287,Elizabeth Curry,Investment Advisor,9,112751.52,2020-07-10,Resigned
+265,212,Erin Graham,Customer Service Representative,22,48546.37,2020-03-20,Active
+266,541,Jennifer Henderson,HR Manager,28,76176.94,2019-06-25,On Leave
+267,545,Thomas Johnson,Loan Officer,24,30518.18,2017-02-16,On Leave
+268,585,Mr. Jacob Mckinney DDS,Data Analyst,1,102742.49,2016-04-17,Active
+269,204,Richard Cruz,Accountant,4,74663.35,2018-08-06,Active
+270,568,Samantha Barron,Loan Officer,14,35206.73,2015-06-29,Resigned
+271,682,Jay Peterson,Investment Advisor,25,78477.96,2018-05-08,Resigned
+272,206,Mary Huang,Credit Analyst,25,112218.21,2017-03-27,On Leave
+273,373,Eric Hill,Credit Analyst,28,80203.06,2020-09-21,Active
+274,92,Jamie Shaw,Customer Service Representative,25,44652.13,2019-10-04,Active
+275,523,Nicole Hall,Data Analyst,25,93594.76,2017-07-21,Resigned
+276,350,Heather Valdez,Bank Teller,18,83653.96,2019-04-28,On Leave
+277,679,Matthew Robertson,Customer Service Representative,9,96792.39,2019-08-27,Resigned
+278,597,Angela Adams,Accountant,25,42309.79,2024-02-21,Resigned
+279,134,Jake Castillo,Accountant,29,85297.65,2021-03-02,On Leave
+280,143,Angela Wilson,Data Analyst,11,31160.35,2019-01-05,On Leave
+281,604,Wesley Richards,Compliance Officer,30,36845.25,2019-02-13,Active
+282,613,Kimberly Petersen,IT Support,30,77433.1,2024-05-01,Active
+283,490,Caitlin Washington,Financial Analyst,28,72924.28,2024-08-09,Resigned
+284,559,Amanda Peters MD,Risk Manager,15,61464.58,2024-05-23,On Leave
+285,201,Jennifer Hudson,Customer Service Representative,9,87255.16,2017-11-07,On Leave
+286,214,Kayla Farley,Risk Manager,8,85327.07,2017-11-19,Active
+287,231,Diane Lindsey,Investment Advisor,1,40054.82,2021-11-21,Active
+288,530,Brandon Eaton,Financial Analyst,1,76897.53,2020-12-24,Active
+289,225,Brenda Scott,Compliance Officer,13,34130.0,2021-10-28,Resigned
+290,548,Tammy James,Branch Manager,22,32805.34,2016-02-28,Active
+291,526,Tina Fletcher,Risk Manager,8,75218.75,2015-07-12,Resigned
+292,528,Michael King,Data Analyst,28,115395.73,2025-02-14,Resigned
+293,460,Eric Morgan,Financial Analyst,6,84158.72,2024-07-04,On Leave
+294,142,Matthew Eaton,Investment Advisor,10,54692.78,2024-04-28,Resigned
+295,520,Grace Franco,Security Officer,22,86467.64,2021-03-23,Active
+296,528,Barbara Wall,Investment Advisor,15,47234.53,2023-11-02,Resigned
+297,312,Jennifer Fernandez,Investment Advisor,17,119232.0,2021-03-02,Active
+298,508,Rachel Kramer,IT Support,17,63919.81,2015-02-23,On Leave
+299,351,Scott Welch,Security Officer,23,39396.87,2024-06-17,On Leave
+300,657,David Kim,Bank Teller,16,50332.16,2021-01-18,Active
+301,467,Jacqueline Clark,Compliance Officer,29,57148.29,2020-02-11,Resigned
+302,643,Erin Rhodes,Branch Manager,25,99238.72,2017-05-31,On Leave
+303,417,Donna Novak,Financial Analyst,26,96779.13,2016-11-15,On Leave
+304,689,Jason Fisher,Customer Service Representative,18,102028.7,2017-11-24,Active
+305,677,Michelle Peterson,HR Manager,5,97624.04,2016-09-01,Resigned
+306,229,Debra Bryant,Loan Officer,11,48630.59,2021-12-22,On Leave
+307,628,James Hernandez,Loan Officer,15,67753.8,2024-02-19,Resigned
+308,200,Nicholas Elliott,Risk Manager,12,48875.22,2017-11-07,On Leave
+309,501,Crystal Roberts,Security Officer,22,61641.54,2015-10-13,On Leave
+310,168,Katherine Jackson,Branch Manager,1,100389.99,2023-06-16,Resigned
+311,689,Lori Pearson,Branch Manager,19,61400.83,2018-05-23,Active
+312,418,Robert Mcmahon MD,Security Officer,4,102814.45,2019-03-02,Active
+313,254,Brian Rodriguez,Financial Analyst,26,94773.2,2017-05-11,Resigned
+314,10,Jacob Chang,Compliance Officer,26,100310.5,2023-10-27,Active
+315,24,Laura Garrett,Customer Service Representative,26,107291.17,2023-08-29,On Leave
+316,540,Andre Martin,IT Support,6,118615.36,2017-01-07,Resigned
+317,417,Melissa Yates,Customer Service Representative,28,32985.89,2021-05-25,Resigned
+318,65,Krista Dominguez,Security Officer,3,53627.06,2020-08-02,On Leave
+319,220,Danielle Black,Credit Analyst,1,62804.9,2015-07-25,On Leave
+320,237,Rodney Sampson,Compliance Officer,14,45080.42,2018-07-24,Resigned
+321,573,Jessica Wallace,Bank Teller,7,96546.43,2016-10-16,Active
+322,257,Lori Washington,HR Manager,4,100515.12,2015-02-20,Active
+323,546,Stephanie Hernandez,Credit Analyst,12,32097.08,2023-11-30,Active
+324,354,Kelsey Barber,Investment Advisor,29,51580.67,2023-01-30,Resigned
+325,28,Terrance Hampton,Financial Analyst,4,69162.67,2017-08-22,Resigned
+326,179,Nicole Smith,Compliance Officer,8,84502.78,2022-07-23,On Leave
+327,404,Tony Lopez,Investment Advisor,28,88106.13,2015-09-30,Resigned
+328,361,Stephanie Swanson,HR Manager,16,100783.63,2017-04-23,Resigned
+329,165,Mr. Michael Martin,Credit Analyst,11,100293.8,2024-10-27,On Leave
+330,566,Juan Hall,Data Analyst,4,113207.0,2023-07-15,Resigned
+331,153,Joseph Howard,Security Officer,6,51811.23,2017-12-18,Resigned
+332,685,Elizabeth Davis,Compliance Officer,21,32699.64,2021-04-13,On Leave
+333,675,Leslie Ferguson,Financial Analyst,15,57656.52,2015-09-19,Resigned
+334,54,Casey Anderson,Data Analyst,21,39537.16,2020-04-20,Resigned
+335,370,Jeffrey Bautista,Customer Service Representative,20,87680.72,2022-11-27,Active
+336,95,Mr. Travis Jenkins,Compliance Officer,12,45733.49,2022-11-26,On Leave
+337,635,Christopher White,Bank Teller,28,71437.71,2020-12-12,On Leave
+338,46,Joshua Taylor,Loan Officer,13,78664.56,2023-03-16,Active
+339,659,Joshua Jackson,HR Manager,17,73575.92,2016-07-27,On Leave
+340,657,Tasha Torres,Loan Officer,3,95803.03,2020-11-22,Resigned
+341,576,Robin Russell,HR Manager,8,95848.92,2019-02-02,Active
+342,80,Amber Harrison,Customer Service Representative,22,32344.96,2015-11-17,On Leave
+343,39,Ryan Reyes,Security Officer,30,36256.77,2016-07-31,Resigned
+344,509,Michael Pena,Accountant,6,75340.07,2023-02-18,On Leave
+345,536,Samantha Black,Bank Teller,9,110978.95,2018-06-05,Active
+346,341,Jerry Taylor,Data Analyst,9,68341.8,2020-03-06,Active
+347,615,Eric Moody,HR Manager,13,47654.99,2020-12-24,Active
+348,676,Daniel Rose,Accountant,19,39164.97,2015-03-03,On Leave
+349,4,Terri Gilmore,Customer Service Representative,2,114091.15,2022-03-18,On Leave
+350,615,Hannah Willis MD,Accountant,3,77502.53,2022-01-27,On Leave
+351,539,Sandra Salazar,HR Manager,21,32608.45,2021-05-18,On Leave
+352,98,Cody Malone,Compliance Officer,14,90290.2,2022-11-24,Active
+353,155,Jacqueline Brown,Financial Analyst,8,49820.99,2016-02-13,Resigned
+354,447,Katherine Walker,Branch Manager,2,89939.15,2020-05-30,Active
+355,17,Jessica Nelson,Accountant,28,64118.1,2021-05-25,Active
+356,540,Brittany Jones,Branch Manager,22,102818.48,2019-03-09,On Leave
+357,301,Nicole Miller,Security Officer,9,50675.6,2022-05-13,On Leave
+358,524,Jennifer Brandt,Customer Service Representative,7,36775.07,2020-08-21,Resigned
+359,15,Angela Martin,Accountant,12,40536.86,2020-07-31,Active
+360,607,Steven Anderson,Data Analyst,23,45132.02,2020-10-30,On Leave
+361,210,Nathan Kaiser,IT Support,12,96256.58,2019-03-30,On Leave
+362,453,Donald Lam,Accountant,19,115876.38,2016-06-20,Active
+363,327,Stephen Jones,Risk Manager,21,41594.63,2020-12-24,Active
+364,172,Jean Gutierrez,Data Analyst,23,74562.44,2019-06-11,On Leave
+365,143,Patricia Hays,Data Analyst,29,42693.12,2023-06-20,Resigned
+366,316,Danielle Meyers,Data Analyst,29,77879.26,2023-08-29,On Leave
+367,626,Sharon Kaufman,Credit Analyst,16,70099.91,2019-06-02,Active
+368,644,Kristin Moody,Financial Analyst,4,79308.65,2020-02-09,On Leave
+369,60,Beth Garcia,Security Officer,29,48378.27,2025-02-09,Resigned
+370,186,Elizabeth Wilson,Customer Service Representative,3,78815.65,2015-07-15,Active
+371,657,Elizabeth Brown,Accountant,17,94150.66,2022-11-24,On Leave
+372,528,Marcus Ochoa,Data Analyst,4,92242.52,2023-09-07,Resigned
+373,565,Aaron Rivera,Accountant,7,105743.57,2021-03-08,Active
+374,420,Kyle Livingston MD,IT Support,14,42495.54,2021-10-27,Resigned
+375,87,Michael Harper,IT Support,19,69167.46,2019-06-29,Active
+376,231,Mr. Cody Perkins PhD,Risk Manager,12,90504.58,2025-01-12,On Leave
+377,108,Heather Roberts,IT Support,19,48298.15,2016-11-10,Resigned
+378,408,Melissa Jones,Accountant,28,40311.63,2021-03-03,Active
+379,291,Matthew Gross,Bank Teller,17,79027.13,2023-09-25,Resigned
+380,650,Deanna Hardy,Compliance Officer,16,113043.62,2017-04-14,On Leave
+381,108,Daniel Henderson,Compliance Officer,19,113888.03,2024-12-06,Active
+382,175,Daniel Campbell,Financial Analyst,10,101333.3,2019-12-07,On Leave
+383,476,Eric Baldwin,IT Support,11,117750.29,2019-01-26,On Leave
+384,620,Michelle Villegas,HR Manager,24,88072.16,2024-07-03,Active
+385,11,Paul Reese,Customer Service Representative,23,56398.74,2017-05-20,Active
+386,331,Mariah Howe,Customer Service Representative,11,119515.69,2019-01-09,On Leave
+387,556,Todd Sanchez,Loan Officer,12,96725.51,2023-08-20,Active
+388,301,Gregory Melendez,IT Support,14,58003.29,2020-09-26,Active
+389,683,Hayley Brown,Investment Advisor,21,73131.44,2019-11-30,Active
+390,409,Vanessa Haynes,Compliance Officer,30,84689.89,2021-05-09,Active
+391,462,Deanna Townsend,HR Manager,4,56953.5,2018-05-19,On Leave
+392,209,David Lee,Data Analyst,9,94399.06,2021-09-11,Resigned
+393,130,Tina Williams MD,Bank Teller,14,114251.84,2020-10-02,Active
+394,102,Victor Reyes,Branch Manager,2,60234.66,2023-01-23,On Leave
+395,395,Melinda Delgado,HR Manager,9,73663.03,2018-11-26,Active
+396,594,Kristine Mcdonald,Loan Officer,22,54642.73,2020-07-08,Resigned
+397,137,Andrew Floyd,Risk Manager,20,50190.22,2020-04-23,Resigned
+398,450,Richard Jackson,Financial Analyst,17,91360.37,2019-08-23,Resigned
+399,200,Austin Harrell,Customer Service Representative,7,83560.21,2020-11-29,Active
+400,141,Dawn Robinson,Risk Manager,30,54214.43,2016-07-05,Resigned
+401,664,Karina Alexander,Compliance Officer,30,50954.32,2018-07-08,On Leave
+402,582,Sarah Harris,Compliance Officer,3,77657.16,2021-07-14,Active
+403,272,Samantha Cross MD,Data Analyst,22,35096.62,2021-08-18,On Leave
+404,507,Katherine Medina,Credit Analyst,23,95858.05,2023-04-28,Active
+405,419,Billy Ryan,Investment Advisor,8,56443.67,2022-09-18,On Leave
+406,575,Emily Brooks,Data Analyst,12,108736.57,2018-04-12,On Leave
+407,75,Jennifer Harding,Credit Analyst,2,52464.97,2024-03-30,Active
+408,642,Steven Stewart,HR Manager,4,43517.15,2021-12-21,Active
+409,218,Emily Hayes,Risk Manager,3,95363.6,2022-01-24,Active
+410,671,Michelle Hernandez,Investment Advisor,9,45374.76,2017-10-27,Active
+411,452,Brandon Rogers,HR Manager,15,104749.01,2024-05-22,Active
+412,529,Cheryl Schmidt,Accountant,6,35646.34,2019-06-15,Resigned
+413,61,Vanessa Smith,Accountant,29,52598.38,2024-04-08,On Leave
+414,164,Jeffery Mcdowell,Customer Service Representative,8,47675.61,2023-04-28,Resigned
+415,295,Robert Wong Jr.,Accountant,16,119077.69,2018-09-14,On Leave
+416,176,Jennifer Gutierrez,Loan Officer,26,57291.72,2024-12-15,Resigned
+417,481,Brandon Reeves,Credit Analyst,13,64944.02,2025-02-09,Resigned
+418,610,Ryan Wilkins,Accountant,19,91279.65,2022-10-02,Active
+419,254,Susan Warren,Credit Analyst,3,36976.15,2020-05-03,Active
+420,103,Cheryl Bishop,Branch Manager,16,43727.27,2017-05-02,Active
+421,250,James Murphy,IT Support,30,48893.63,2020-04-06,Active
+422,422,Stephen Hawkins,Risk Manager,26,99446.23,2024-04-07,Resigned
+423,543,Debra Armstrong,HR Manager,4,30424.34,2020-08-20,Active
+424,551,Troy Ray,Security Officer,18,73282.3,2018-03-06,Active
+425,330,Kimberly Anderson,HR Manager,25,56829.61,2015-11-20,Active
+426,379,Cynthia Smith,Risk Manager,20,77531.33,2017-05-21,Resigned
+427,623,Maria Hart,Compliance Officer,22,45429.48,2016-11-13,Active
+428,375,David Arias,Security Officer,19,63387.91,2018-11-14,Active
+429,338,Chad Green,HR Manager,28,45790.99,2021-01-05,Resigned
+430,453,Steven Hamilton,IT Support,14,112576.59,2015-09-28,On Leave
+431,321,Gregory Hall,Security Officer,8,119582.18,2023-09-01,On Leave
+432,329,Michael Day,Risk Manager,23,48730.02,2016-05-05,On Leave
+433,214,Deborah Wright,Loan Officer,16,77562.54,2023-07-31,Resigned
+434,78,Robert Harrison,Compliance Officer,16,55129.47,2017-11-27,On Leave
+435,150,Marie Frye,Credit Analyst,3,102940.24,2015-12-23,Resigned
+436,322,Jenny Wyatt,Data Analyst,21,60499.36,2017-10-18,Active
+437,159,Adam Nichols,Customer Service Representative,23,51356.44,2020-06-15,Resigned
+438,63,Jorge Cooke,HR Manager,17,100975.74,2023-09-22,On Leave
+439,42,Pamela Jimenez,Compliance Officer,17,118083.46,2024-12-01,Resigned
+440,315,Andrea Howard,HR Manager,12,83299.84,2022-05-24,Resigned
+441,674,Alexis Mason,Bank Teller,21,114248.25,2018-02-13,Resigned
+442,47,Douglas Wilson,IT Support,16,60492.52,2016-10-31,On Leave
+443,646,Anthony Nelson,Compliance Officer,17,68844.33,2021-11-17,Resigned
+444,230,Jessica Phillips,IT Support,17,75701.6,2019-01-17,Active
+445,174,Heidi Ramirez,Bank Teller,20,55737.12,2020-05-07,Resigned
+446,568,Keith Cooley,Loan Officer,12,37754.02,2018-08-29,Active
+447,318,Catherine Henry,Customer Service Representative,12,82869.7,2016-05-31,Active
+448,318,Rick Dillon,Customer Service Representative,3,108713.89,2018-02-27,Resigned
+449,557,Jeffrey Robinson,Branch Manager,1,98167.84,2017-08-07,Active
+450,695,Erin Wilson,Customer Service Representative,5,95638.0,2021-04-17,Active
+451,564,Breanna Case,HR Manager,2,55534.84,2018-12-15,Resigned
+452,324,Robin Haley,Risk Manager,22,99653.64,2022-05-05,On Leave
+453,407,James Ibarra,Data Analyst,1,61763.55,2023-06-10,Resigned
+454,95,Eileen Bowen,Data Analyst,15,76150.74,2020-12-26,Active
+455,597,Richard Barajas,Risk Manager,27,88606.49,2018-03-16,Resigned
+456,66,Cory Graves,Branch Manager,6,41492.26,2018-04-14,On Leave
+457,484,Donna Juarez,Compliance Officer,13,57829.9,2019-02-08,Active
+458,521,Joseph Dorsey,Security Officer,13,36790.59,2019-06-24,Resigned
+459,424,Hannah Palmer,Risk Manager,29,77045.19,2018-02-11,On Leave
+460,51,Linda Daniels,Investment Advisor,8,119786.04,2017-06-07,Active
+461,200,Kylie Williams,Financial Analyst,5,68380.95,2019-11-15,Resigned
+462,438,Frank Green,Branch Manager,28,41105.12,2015-06-05,On Leave
+463,234,Bailey Torres,Investment Advisor,17,80766.36,2018-08-08,Resigned
+464,78,Stephanie Parker,Compliance Officer,10,87097.87,2023-02-27,Active
+465,431,Brittany Hall,Investment Advisor,3,100527.88,2019-06-16,On Leave
+466,83,Shawn Lam,Bank Teller,21,31085.53,2023-07-13,On Leave
+467,541,Tracy Oneal,Security Officer,1,82645.96,2020-10-09,On Leave
+468,489,Justin Murphy,Financial Analyst,10,55527.48,2015-10-15,On Leave
+469,247,Brandon Stafford,Compliance Officer,6,63621.03,2018-04-26,On Leave
+470,75,Craig Johnson,Credit Analyst,13,77850.5,2020-05-24,On Leave
+471,304,Richard Haas,Credit Analyst,29,112939.11,2024-02-16,Active
+472,537,Elizabeth Rojas,Financial Analyst,29,53297.42,2017-10-21,On Leave
+473,635,Peggy Campbell,Accountant,29,78315.38,2020-12-02,Resigned
+474,519,Cameron Hoffman,Investment Advisor,18,37889.31,2023-06-25,On Leave
+475,579,Kelly Rodriguez,Compliance Officer,18,53376.7,2024-02-12,Resigned
+476,308,Melody Mejia,Data Analyst,12,49955.76,2018-01-01,Resigned
+477,57,Daniel Osborn,Investment Advisor,25,53200.55,2018-09-30,Resigned
+478,538,Eric Morris,Investment Advisor,15,119707.2,2020-03-21,Active
+479,57,Maria Wilson,Security Officer,12,44210.04,2022-01-11,Active
+480,664,Julian Moore,Risk Manager,14,68256.02,2018-02-25,On Leave
+481,432,Edward Anderson,Financial Analyst,15,77078.24,2019-08-30,Active
+482,680,Anne Lee,Security Officer,16,114519.02,2016-02-17,On Leave
+483,81,Anthony Moss,Security Officer,14,71725.53,2017-11-13,Resigned
+484,694,Mr. Michael Williams,Loan Officer,18,119398.76,2019-02-15,On Leave
+485,154,James Sanchez,Investment Advisor,13,63784.64,2021-02-24,Resigned
+486,435,Keith Bailey,Customer Service Representative,27,31031.55,2022-04-22,On Leave
+487,402,Billy Garza,Financial Analyst,24,68171.15,2021-05-25,Resigned
+488,682,Ryan Stone,Financial Analyst,1,42369.24,2024-05-09,Active
+489,301,Sarah Schmidt,Risk Manager,16,36790.96,2020-06-18,Active
+490,335,Matthew Smith,Financial Analyst,29,58191.57,2016-12-10,Active
+491,566,Jennifer Farmer,Branch Manager,10,61104.69,2018-06-16,Active
+492,682,Steven Hall,Investment Advisor,21,113417.41,2016-02-08,Resigned
+493,132,Elizabeth Elliott,Accountant,30,46684.75,2016-10-09,On Leave
+494,644,Brian Cook,Accountant,9,92398.46,2022-04-11,Resigned
+495,503,Mary Hurst,Investment Advisor,26,42855.54,2019-08-13,Active
+496,22,Miranda Kelly,Security Officer,8,65294.44,2019-02-12,Resigned
+497,241,Amanda Frank,IT Support,20,69389.71,2020-04-12,Active
+498,536,Jeffrey Ramirez,Investment Advisor,1,88634.66,2023-01-04,Active
+499,348,Kimberly Holland,Investment Advisor,21,36997.74,2020-04-16,Resigned
+500,520,Nicole Monroe DDS,Data Analyst,8,93300.13,2023-05-31,Resigned
+501,81,Joseph Blankenship,Investment Advisor,4,90335.41,2024-12-15,Resigned
+502,610,Robert Morales,Loan Officer,30,77610.12,2019-06-13,Active
+503,326,Jennifer Sweeney MD,Compliance Officer,16,52460.19,2022-01-14,On Leave
+504,420,Kim Kelly,HR Manager,1,60881.31,2022-04-25,Active
+505,67,Christopher Werner,Financial Analyst,21,79650.56,2019-08-14,Resigned
+506,640,John Carlson,Credit Analyst,19,31974.19,2020-06-10,Active
+507,660,Jessica Taylor,Customer Service Representative,17,92130.14,2015-10-22,On Leave
+508,19,Franklin Harris,Financial Analyst,13,106576.76,2021-03-20,Active
+509,624,Lynn Nguyen,Customer Service Representative,13,34518.44,2015-05-25,On Leave
+510,608,Ashley Adams,Customer Service Representative,10,52319.87,2017-06-18,On Leave
+511,57,Brendan Henry,Risk Manager,29,49975.96,2017-05-02,Resigned
+512,580,Kathryn Casey,Investment Advisor,28,52747.14,2015-12-09,On Leave
+513,479,Melanie Dickerson,IT Support,7,119887.61,2015-08-02,On Leave
+514,406,Carol Dudley,Risk Manager,13,69009.84,2019-12-27,Active
+515,50,Angela Cooke,Risk Manager,13,104744.59,2018-05-01,Resigned
+516,116,Jessica Wagner,Risk Manager,17,62958.85,2016-07-11,Active
+517,144,Daniel Garcia,Data Analyst,13,65575.02,2024-07-20,Active
+518,74,Kenneth Murphy,IT Support,5,32036.59,2021-10-08,On Leave
+519,24,Peggy Rich,Compliance Officer,4,36086.01,2025-02-06,Active
+520,10,Dylan Beck,Loan Officer,8,113640.91,2018-10-21,Active
+521,70,Christine Roy,Customer Service Representative,25,117092.59,2015-03-05,On Leave
+522,147,Richard Chavez,Loan Officer,18,60114.37,2017-03-16,Active
+523,618,Jamie Smith,Data Analyst,4,35878.2,2023-08-05,Resigned
+524,428,David Evans,IT Support,27,86055.05,2023-06-13,On Leave
+525,96,Andrew Haynes,Bank Teller,6,67086.07,2016-04-09,On Leave
+526,212,Erin Barnes,Investment Advisor,1,54298.68,2021-04-26,Resigned
+527,91,Travis Parker,Investment Advisor,24,90045.95,2017-05-24,Resigned
+528,8,Mary Morgan,Financial Analyst,18,93095.59,2018-12-21,On Leave
+529,628,Theresa Smith,Bank Teller,20,86868.61,2020-08-10,On Leave
+530,45,Douglas Jones,Customer Service Representative,4,60996.34,2023-09-10,Active
+531,27,Patrick Thomas,Bank Teller,17,118164.81,2023-05-25,Resigned
+532,117,Diane Houston,Financial Analyst,30,41703.33,2019-07-26,On Leave
+533,662,Amy Hart,Security Officer,12,44406.1,2018-05-06,Active
+534,440,Robert Mills,Loan Officer,25,114054.79,2019-08-10,Resigned
+535,383,Melody Jackson,HR Manager,26,39783.84,2018-12-27,Resigned
+536,483,Nicole Campbell,Risk Manager,18,33708.56,2019-02-21,Active
+537,77,Michael Shaw,Accountant,15,90135.9,2023-09-15,On Leave
+538,269,Michael Townsend,IT Support,20,109596.81,2024-11-21,Active
+539,358,Emily Mann,Compliance Officer,16,63476.48,2016-07-03,Active
+540,430,Rachael Brock,Compliance Officer,20,67237.4,2016-07-03,Active
+541,581,Joshua Warner,HR Manager,30,110598.41,2018-07-12,On Leave
+542,97,Kristin Jacobs,Bank Teller,21,81761.35,2021-12-07,On Leave
+543,642,Karina Santos,Accountant,17,41206.74,2022-07-05,Resigned
+544,495,Brittney Orr,Branch Manager,5,104965.96,2024-10-16,Active
+545,418,Karina Johnston,Loan Officer,15,64570.06,2019-07-18,Active
+546,542,Thomas Briggs,Accountant,21,106846.21,2021-04-21,Active
+547,299,Jamie Rosario,Compliance Officer,23,70449.05,2020-04-24,On Leave
+548,666,Austin Davis,IT Support,16,71222.09,2015-11-20,Resigned
+549,303,Angela Tucker,Financial Analyst,27,89133.5,2018-01-06,Resigned
+550,355,Brianna Lewis,Data Analyst,8,102468.65,2023-06-01,Active
+551,232,Trevor Barnes,Loan Officer,11,31539.35,2015-08-16,Resigned
+552,653,Kelly Wong,Bank Teller,7,108744.51,2015-07-07,Resigned
+553,182,Emily Reed,Bank Teller,8,100609.27,2023-12-04,Resigned
+554,353,Lindsey Lopez,Customer Service Representative,27,82801.84,2023-08-03,Active
+555,255,Tina James,Customer Service Representative,3,87424.29,2017-10-30,On Leave
+556,5,Jesse Kelley,Data Analyst,27,61396.88,2023-11-08,On Leave
+557,230,Christopher Chapman,IT Support,22,50818.65,2023-12-15,Resigned
+558,355,Lisa Allen,Security Officer,10,36268.14,2022-10-17,Resigned
+559,136,Carlos Sutton,Accountant,11,110277.83,2016-01-30,Active
+560,615,Kirsten Fisher,HR Manager,6,61500.88,2019-08-23,Resigned
+561,483,Lindsay Fuller,HR Manager,30,53181.46,2024-08-19,Resigned
+562,687,Craig Adams,Investment Advisor,17,71420.43,2023-06-10,On Leave
+563,585,Cassandra Stuart,Risk Manager,27,51371.17,2019-10-29,Resigned
+564,512,Reginald Downs,Customer Service Representative,7,100561.34,2024-10-30,Active
+565,684,Jonathon Gallagher,Branch Manager,3,37181.55,2017-11-10,Active
+566,691,Cristina Love,Compliance Officer,11,89029.37,2016-07-02,On Leave
+567,402,Stephanie Colon,Risk Manager,14,39011.33,2023-04-18,Resigned
+568,93,Daniel Navarro,Loan Officer,16,107558.81,2018-12-11,Active
+569,152,Ashley Morris,Security Officer,19,37788.92,2022-10-31,Active
+570,306,Ryan Kennedy,Investment Advisor,9,55256.38,2021-06-19,Resigned
+571,148,Nicole Mcknight,Data Analyst,5,88531.95,2017-09-26,On Leave
+572,142,Lisa Bonilla,Branch Manager,19,60700.99,2018-08-06,Active
+573,85,Miranda Schroeder,Loan Officer,11,96225.86,2015-06-04,Resigned
+574,164,William Roberts,Data Analyst,11,81540.16,2018-11-12,On Leave
+575,102,Suzanne Mitchell,Data Analyst,9,68429.51,2017-12-19,Resigned
+576,101,Mr. Stephen Baker Jr.,Financial Analyst,29,51781.43,2018-10-21,Resigned
+577,509,Chad Strong,Investment Advisor,24,84292.85,2021-10-25,Active
+578,50,Alyssa Holt,Customer Service Representative,23,69649.33,2023-07-05,Resigned
+579,293,Victoria Hendrix,Risk Manager,16,55507.72,2017-05-30,Resigned
+580,455,Mr. Jordan Sanders,Investment Advisor,10,97860.39,2024-02-21,Resigned
+581,415,Robert Mccarthy,Credit Analyst,25,113392.88,2018-01-01,Active
+582,123,Alexa Watson,Branch Manager,15,75540.74,2019-01-07,Active
+583,253,Chad Barrett,IT Support,21,117231.65,2023-04-21,On Leave
+584,405,Thomas Flynn,Credit Analyst,12,84966.46,2022-10-09,Active
+585,441,Amanda Morales,Accountant,14,42927.43,2022-10-19,Resigned
+586,48,Ray Briggs,Data Analyst,4,93761.93,2017-10-17,Resigned
+587,549,Teresa Mccall,Financial Analyst,20,95890.58,2020-07-31,Active
+588,553,April Rivera,Branch Manager,12,99937.27,2024-09-03,On Leave
+589,424,William Evans,Financial Analyst,5,60093.95,2016-06-19,Active
+590,598,Michelle Cooper,Risk Manager,9,55998.56,2020-06-18,Resigned
+591,126,Roberto Hebert,Customer Service Representative,7,35264.56,2023-09-17,Active
+592,56,Cheryl Wang,Security Officer,7,113751.02,2023-04-02,On Leave
+593,248,Angela Baldwin,Compliance Officer,27,50155.85,2018-04-10,On Leave
+594,308,Kaitlin Wagner,Data Analyst,22,34197.22,2024-07-09,Resigned
+595,633,Virginia Graham,Credit Analyst,16,73197.67,2019-06-25,On Leave
+596,103,Sophia Avila,Investment Advisor,15,115542.65,2021-04-16,Resigned
+597,109,Kimberly Davis,HR Manager,8,30577.29,2021-10-02,On Leave
+598,60,Gabriela Torres,Branch Manager,7,118463.17,2020-06-06,Active
+599,86,Mrs. Tiffany Banks,Financial Analyst,4,101718.53,2022-12-18,Resigned
+600,254,Laura Johnson,Security Officer,11,93527.91,2021-10-15,On Leave
+601,126,Nathan Williams,Investment Advisor,6,44976.09,2019-07-31,Resigned
+602,172,Eric Thompson,Branch Manager,19,56370.6,2020-07-09,Active
+603,38,Brenda Ellis,Branch Manager,19,62865.49,2023-05-05,Active
+604,663,Mrs. Hannah Esparza,Accountant,14,67737.28,2019-04-30,Active
+605,563,Kevin Sanchez,HR Manager,13,115286.41,2022-09-17,On Leave
+606,626,Carol Wolfe,Branch Manager,1,59517.51,2020-05-03,Resigned
+607,247,Jeanne Gallagher,Accountant,12,111511.34,2020-08-20,On Leave
+608,118,Brittney Osborn,IT Support,13,115332.0,2016-02-18,Resigned
+609,196,Robert Thompson,Accountant,30,69043.17,2024-02-10,Active
+610,69,Shane Heath,Security Officer,14,40327.23,2018-01-27,Active
+611,211,Emily Romero,Bank Teller,11,93406.97,2024-10-02,Resigned
+612,63,Steven Miller,Investment Advisor,19,105937.37,2021-03-25,Active
+613,23,James Brown,Financial Analyst,1,94683.03,2023-08-31,Active
+614,384,Shawna Krueger,Data Analyst,4,77251.84,2018-03-14,Active
+615,587,Justin Robinson,Credit Analyst,11,39387.31,2017-09-14,On Leave
+616,360,Charles Ray,HR Manager,17,71154.09,2015-06-15,Resigned
+617,549,Charles Kramer,Branch Manager,1,116834.57,2018-10-28,Resigned
+618,593,Christine Patel,Financial Analyst,20,86483.14,2017-01-22,Active
+619,382,Jane Moore,Security Officer,5,65932.6,2021-01-27,Active
+620,334,Samuel Collins,Risk Manager,14,82683.67,2016-08-17,On Leave
+621,543,Joshua Williams,Loan Officer,22,48257.53,2022-10-18,On Leave
+622,277,David Castro,Investment Advisor,25,100483.4,2024-10-31,Resigned
+623,340,Christopher Mays,Loan Officer,28,51603.62,2020-07-27,On Leave
+624,558,Justin Flynn,Risk Manager,16,75482.0,2017-04-04,Active
+625,637,Karen Brewer,Compliance Officer,10,69175.43,2020-06-09,On Leave
+626,271,Joanna Doyle,Branch Manager,16,84391.49,2023-02-26,Resigned
+627,346,Erika Hunt,Security Officer,17,51397.9,2020-02-25,Resigned
+628,527,Amy Hodges,Bank Teller,3,55210.55,2020-12-25,Resigned
+629,174,Michael Osborne,Data Analyst,14,108982.56,2021-03-08,Resigned
+630,30,Juan Mckay DDS,Financial Analyst,22,85604.9,2019-11-09,On Leave
+631,88,Holly Kaiser,Compliance Officer,18,55417.21,2018-10-18,Active
+632,424,Kristy Lucas,Data Analyst,14,101207.94,2024-02-20,Resigned
+633,203,Sherry Lopez,Investment Advisor,17,33741.97,2019-02-01,Active
+634,274,Amanda Watts,Data Analyst,15,103789.22,2023-12-15,On Leave
+635,102,Aaron Kemp,Loan Officer,19,71768.24,2021-05-27,Active
+636,156,Justin Jenkins,Financial Analyst,4,33548.71,2016-04-21,Active
+637,445,Jose Dickson,IT Support,13,98125.3,2023-11-19,Resigned
+638,139,Johnny Hudson,Risk Manager,11,86600.91,2022-09-05,On Leave
+639,506,Charles Holland,Financial Analyst,13,66773.58,2024-12-23,Active
+640,589,Rachael Duncan,Risk Manager,27,93825.99,2023-03-03,Resigned
+641,460,Catherine Johnson,Security Officer,13,83393.51,2021-01-23,On Leave
+642,588,Duane Herman,Data Analyst,22,92245.4,2019-12-10,On Leave
+643,600,Jill Alvarez,Credit Analyst,8,51280.26,2023-08-25,On Leave
+644,662,Joseph Barnes,Customer Service Representative,1,79366.46,2024-02-09,On Leave
+645,465,Briana Adams,Security Officer,6,105582.01,2016-08-05,Resigned
+646,31,Kelly Burke,Security Officer,24,69286.32,2022-05-13,On Leave
+647,174,Heather Anderson,Risk Manager,14,41876.58,2022-06-01,Resigned
+648,351,Hayley Sullivan,Investment Advisor,4,90650.52,2015-03-06,Resigned
+649,104,Marcus Lee,Data Analyst,20,67863.92,2015-10-29,Resigned
+650,43,Micheal Steele,Credit Analyst,3,48390.02,2023-04-11,Resigned
+651,640,David Frost,Risk Manager,16,118754.53,2021-10-09,On Leave
+652,624,Kimberly Page,Risk Manager,23,73903.21,2015-03-22,On Leave
+653,255,John Holt,HR Manager,11,86383.39,2015-04-14,On Leave
+654,186,David Lane,Risk Manager,14,56999.26,2017-05-23,On Leave
+655,180,Alyssa Collins,Investment Advisor,7,32405.9,2016-09-18,Active
+656,349,Monique Floyd,HR Manager,11,109366.0,2018-07-14,Active
+657,313,Clinton Perkins,Customer Service Representative,3,99269.26,2017-06-21,Resigned
+658,534,Elaine Hensley,Credit Analyst,16,41379.38,2024-11-24,On Leave
+659,566,Dr. Timothy Nguyen,Risk Manager,14,36240.26,2022-02-25,Active
+660,329,Alicia Mejia,IT Support,2,92875.53,2019-09-14,Active
+661,519,Sarah Simmons,Financial Analyst,6,75001.11,2019-01-30,On Leave
+662,420,James Torres,Accountant,20,47604.03,2018-10-30,On Leave
+663,89,Laura Bowen,Accountant,11,31048.61,2018-10-09,On Leave
+664,506,Kenneth Cook,HR Manager,23,35874.92,2018-08-24,Resigned
+665,549,Rebecca Garcia,Compliance Officer,7,74734.08,2019-01-13,Active
+666,224,Felicia Clayton,Loan Officer,20,84252.59,2022-03-30,On Leave
+667,497,Roy Robinson,Accountant,30,82122.91,2017-04-23,Resigned
+668,459,Jason Ford,Loan Officer,5,51740.93,2019-03-08,Active
+669,358,Brian Johnson,HR Manager,8,58130.9,2016-08-29,Resigned
+670,372,Tyler Barron,Data Analyst,18,110987.38,2019-02-21,On Leave
+671,547,Brian Brown,Risk Manager,2,115964.31,2023-01-03,On Leave
+672,11,Glenn Perry,Security Officer,9,76027.71,2024-02-23,Active
+673,53,Miranda Cervantes,HR Manager,9,67073.46,2021-12-11,Resigned
+674,388,Juan Pearson,IT Support,17,110112.0,2021-12-26,On Leave
+675,102,Susan Stanton,HR Manager,17,119967.75,2015-02-25,Active
+676,31,Dylan Bailey,Branch Manager,2,53600.44,2015-05-27,Resigned
+677,364,Dr. Eric Buckley,Risk Manager,11,82578.21,2024-09-01,Resigned
+678,55,Maria Case,Security Officer,11,39695.96,2020-07-07,Resigned
+679,33,Edward Barrett,Risk Manager,20,44324.88,2020-11-23,On Leave
+680,657,Charlotte Bonilla DVM,Data Analyst,24,81799.29,2023-08-12,On Leave
+681,71,Dr. Joshua Anthony,Branch Manager,18,112841.46,2019-03-07,On Leave
+682,641,Jennifer Pena,Compliance Officer,27,108819.64,2015-12-14,On Leave
+683,681,Charles Harris,Data Analyst,12,32006.25,2020-11-20,Active
+684,431,Michael Johnson,Risk Manager,3,84720.95,2020-07-17,Resigned
+685,323,Stacey Jarvis,Credit Analyst,27,85404.33,2023-07-21,Active
+686,645,Jonathan Brown,Bank Teller,11,82625.19,2015-10-13,Resigned
+687,365,Kaitlin Hanson,Investment Advisor,19,66521.91,2015-06-01,Resigned
+688,557,Sandra Mcintosh,Branch Manager,28,87053.02,2019-05-07,On Leave
+689,411,Tyler Rogers,Financial Analyst,2,74854.51,2017-12-10,Resigned
+690,217,Sara Montgomery,Branch Manager,30,35784.95,2015-09-30,On Leave
+691,586,Paul Velez,Compliance Officer,19,47412.09,2024-05-09,Resigned
+692,179,Gregory Weaver,Data Analyst,2,80647.53,2025-02-18,Resigned
+693,229,Todd Wise,Risk Manager,6,105558.08,2022-02-04,Active
+694,266,Tracy Martinez,Risk Manager,27,89770.39,2018-10-28,Active
+695,528,Christina Kelley,Loan Officer,13,114351.43,2020-10-11,Resigned
+696,549,Chad Massey,Accountant,2,97754.55,2017-08-15,On Leave
+697,675,Laurie Gonzalez,Investment Advisor,27,44333.82,2019-01-01,Active
+698,35,Michael Hill,Credit Analyst,13,37074.67,2025-02-10,Active
+699,245,Ashley Sutton,Loan Officer,17,71016.75,2016-05-21,Active
+700,370,Mrs. Kari Crane,IT Support,12,90073.59,2021-01-29,Active
+701,50,Stacey Medina,Risk Manager,25,113230.5,2018-02-10,Active
+702,694,Christian Henson,Loan Officer,21,77091.85,2022-12-10,Active
+703,365,Tammy Johnson,Data Analyst,26,60327.2,2024-08-09,Active
+704,475,Cory Rivera,Credit Analyst,2,51533.36,2015-06-02,Active
+705,101,Jose Lynch,Bank Teller,9,106827.25,2017-09-02,Resigned
+706,621,Megan Conrad,Security Officer,2,104361.51,2024-01-13,Resigned
+707,206,Dawn Diaz,Risk Manager,8,60956.33,2019-05-30,On Leave
+708,360,Kara Leon,Loan Officer,23,102752.84,2018-05-19,On Leave
+709,235,Patrick Ferguson,Loan Officer,6,100441.42,2020-10-04,On Leave
+710,431,Victoria Miller,Bank Teller,23,72754.73,2015-05-11,On Leave
+711,467,Jeremy Martinez,Risk Manager,10,66928.52,2023-03-12,On Leave
+712,57,Kelsey Costa,Investment Advisor,16,52838.16,2022-03-13,On Leave
+713,407,Cynthia Romero,Customer Service Representative,1,99196.75,2016-04-23,Active
+714,234,Mr. Michael Huff,Branch Manager,5,48013.74,2016-04-27,On Leave
+715,652,Melinda Phillips,Accountant,3,98284.63,2017-11-16,On Leave
+716,593,Elizabeth Perez,Financial Analyst,1,106333.46,2016-12-17,On Leave
+717,79,Vincent Anderson,HR Manager,17,63025.54,2023-09-03,On Leave
+718,676,Debra Mcdaniel,IT Support,19,65210.5,2023-05-20,Active
+719,9,Christina Henderson,Data Analyst,24,63434.83,2015-04-20,On Leave
+720,324,Maria Murphy,Credit Analyst,11,84070.28,2017-05-05,Resigned
+721,469,William Stewart,Investment Advisor,6,51333.5,2021-08-16,On Leave
+722,313,Morgan Jordan,HR Manager,5,113209.45,2016-08-17,Active
+723,296,Troy Riley,HR Manager,13,83539.49,2024-06-19,Active
+724,518,Tiffany Berg,Accountant,22,40572.85,2022-07-16,Resigned
+725,691,David Huff,Data Analyst,19,39459.24,2023-08-15,Active
+726,680,William Burton,IT Support,3,58422.64,2020-11-28,Resigned
+727,671,Charles Howard,Accountant,1,73378.39,2018-11-07,Resigned
+728,571,Justin Zhang,Security Officer,3,80014.51,2020-02-22,Active
+729,188,Charlene Green,Compliance Officer,15,59979.53,2022-01-27,Active
+730,148,Sherry Lester,Customer Service Representative,28,49597.81,2016-12-20,Active
+731,626,Sandra Sanders,Loan Officer,4,64241.14,2021-03-08,Resigned
+732,372,Jeffrey Jefferson,Credit Analyst,30,65130.46,2023-02-12,Active
+733,152,David Estrada,Risk Manager,29,109102.85,2018-11-23,On Leave
+734,16,Jeffrey King,Branch Manager,10,68215.02,2021-09-07,On Leave
+735,370,Lauren Wong,Bank Teller,21,95934.47,2022-08-04,Resigned
+736,132,Sarah White,Data Analyst,11,40194.67,2020-09-04,Resigned
+737,550,Sheryl Hernandez,HR Manager,12,112220.78,2016-09-25,Active
+738,185,Lauren Nguyen,Financial Analyst,18,92297.82,2018-10-23,Active
+739,408,Timothy Griffin,Credit Analyst,12,78400.77,2022-02-13,Active
+740,380,Gary Scott,Accountant,9,52580.15,2018-03-07,Resigned
+741,332,Richard Morris,Bank Teller,6,31237.86,2015-09-16,On Leave
+742,607,Ryan Singleton,Risk Manager,8,48283.14,2015-07-28,Resigned
+743,55,April Kelly,Security Officer,5,81221.0,2022-07-03,Resigned
+744,239,Ryan Mccullough,Investment Advisor,25,54198.06,2017-10-26,Resigned
+745,79,Vicki Liu,Investment Advisor,9,84400.86,2016-04-17,Active
+746,273,Robin Carter,Accountant,17,35049.03,2024-03-08,Resigned
+747,420,Samuel Bautista,IT Support,17,116127.05,2015-06-21,Active
+748,651,Thomas Parks,IT Support,6,38242.79,2023-09-13,On Leave
+749,679,Sean Rodriguez,Investment Advisor,10,59938.35,2024-02-01,Active
+750,667,Michael Lee,Accountant,1,38192.82,2019-04-09,On Leave
+751,489,Brenda Fisher,Branch Manager,22,72377.57,2018-06-09,On Leave
+752,244,Carolyn Davis,Accountant,30,74150.75,2018-09-08,Resigned
+753,388,Andrea Wallace,Compliance Officer,18,72726.26,2019-04-16,Active
+754,183,Carlos Carter,Credit Analyst,19,79464.03,2016-03-17,Active
+755,60,Brandon Harris,Risk Manager,2,87517.71,2025-02-07,Resigned
+756,178,Tanya Gomez,Bank Teller,13,62672.94,2024-04-01,On Leave
+757,555,Lindsay Lynn,IT Support,3,90634.5,2016-05-05,Resigned
+758,605,Stephanie Brewer,Bank Teller,18,101047.39,2022-01-17,On Leave
+759,129,Carlos Ramos,Credit Analyst,13,38380.68,2018-03-08,Resigned
+760,311,Susan Elliott DVM,Investment Advisor,12,33133.66,2020-12-27,Active
+761,661,Mary Ayers,Accountant,22,67163.74,2023-10-13,Resigned
+762,415,Brian Kelly,Financial Analyst,2,38083.69,2023-06-20,Active
+763,262,Carmen Hernandez,Credit Analyst,10,100511.23,2015-09-16,Resigned
+764,401,Richard Cochran,Branch Manager,30,101929.49,2019-12-21,On Leave
+765,508,Rachel Ramirez,Security Officer,20,104752.76,2018-10-28,Resigned
+766,213,Lisa Weber,Loan Officer,12,91989.33,2022-02-03,Active
+767,261,Kristen Campbell,Branch Manager,1,74131.76,2017-04-03,Resigned
+768,160,Scott Lewis,Security Officer,11,35436.97,2021-08-11,Resigned
+769,530,Lisa Schultz,Accountant,7,52124.99,2023-09-21,Active
+770,393,Dana Rodriguez,Financial Analyst,14,59438.49,2018-05-05,Resigned
+771,424,David Rice,Investment Advisor,30,115834.82,2017-01-02,On Leave
+772,518,Brett Moses,Accountant,7,67996.16,2015-12-31,Active
+773,591,Heather Johnson,Risk Manager,13,94525.94,2022-06-30,On Leave
+774,206,James Williams,Customer Service Representative,17,72421.94,2015-08-01,Active
+775,162,James Cardenas,Branch Manager,15,106630.38,2020-01-30,Active
+776,304,Charles Harrison,Data Analyst,27,70150.2,2017-07-30,Resigned
+777,31,Brandi Rodriguez,Customer Service Representative,3,90448.58,2017-01-21,Active
+778,646,John Jones,Compliance Officer,27,46028.94,2024-02-10,Active
+779,402,William Gray,Customer Service Representative,3,65319.53,2021-07-21,Resigned
+780,391,Sean Norton,Loan Officer,15,76051.57,2021-09-20,Resigned
+781,413,Russell Jackson,Investment Advisor,28,43927.42,2022-02-18,Active
+782,266,Thomas Cherry,IT Support,30,73107.11,2015-12-30,Resigned
+783,34,Nancy Torres,Bank Teller,21,76751.04,2017-09-03,On Leave
+784,370,William Campbell,Accountant,26,68521.61,2022-05-30,On Leave
+785,618,Ashlee Gilbert,Customer Service Representative,24,31652.03,2015-04-27,On Leave
+786,470,Todd Brown,Financial Analyst,9,61980.85,2022-04-07,Resigned
+787,295,Jake Franco,Accountant,2,58353.41,2021-02-20,On Leave
+788,498,Amy Barnes,Loan Officer,9,80103.45,2015-12-25,On Leave
+789,320,Kristina Foster,Investment Advisor,18,58856.48,2018-11-03,Resigned
+790,321,Danielle Haynes,Financial Analyst,15,111394.35,2017-04-22,On Leave
+791,690,Alisha Smith,Risk Manager,6,117560.81,2016-07-02,Resigned
+792,391,Grace Saunders,Loan Officer,13,43135.36,2016-02-27,On Leave
+793,18,Joshua Johnson,Financial Analyst,11,33020.69,2018-08-13,Active
+794,385,Matthew Reid,Bank Teller,3,106704.14,2019-11-24,Resigned
+795,320,Jeffrey Johnson,Security Officer,13,46804.88,2020-03-23,Resigned
+796,42,Joseph Schultz,Security Officer,14,36118.83,2018-04-30,Resigned
+797,574,Mrs. Katie Smith,Credit Analyst,5,77535.71,2022-10-28,On Leave
+798,624,Todd Alexander,Credit Analyst,18,75440.32,2019-01-01,Resigned
+799,44,Barbara Tate,Loan Officer,26,40556.22,2016-05-18,On Leave
+800,106,Kevin Smith,Financial Analyst,10,89024.01,2019-05-30,Active
+801,194,Robert Mahoney,Security Officer,20,106653.13,2022-05-21,Active
+802,651,Tammy Schmidt,Customer Service Representative,15,77238.27,2016-01-17,Active
+803,258,Kayla Chandler,Accountant,4,87866.28,2015-03-19,Active
+804,374,Preston Carpenter,Compliance Officer,24,36388.33,2022-08-09,On Leave
+805,598,Stacy Anderson,Branch Manager,16,34048.47,2023-08-26,On Leave
+806,638,John Wright,Risk Manager,24,112038.88,2015-11-03,Resigned
+807,254,Charles Simmons,Compliance Officer,15,108163.26,2022-10-15,Active
+808,468,Matthew Willis,Compliance Officer,26,78316.88,2015-03-08,On Leave
+809,155,Evan Acevedo,Security Officer,29,114816.49,2022-09-15,Active
+810,331,Anthony Adams,Compliance Officer,16,57475.42,2024-06-24,Resigned
+811,263,Danielle Powers,Branch Manager,22,55110.57,2023-07-23,Resigned
+812,271,Joshua Grant,Financial Analyst,13,102522.91,2022-01-22,On Leave
+813,578,Christina Stone,Compliance Officer,16,78540.07,2019-11-21,Resigned
+814,29,Elizabeth Garcia,Bank Teller,29,78921.05,2022-04-02,Resigned
+815,214,Amanda Jackson,Compliance Officer,17,92273.89,2022-08-22,On Leave
+816,601,Jose Hughes,Customer Service Representative,8,96603.65,2021-07-01,Resigned
+817,391,Shannon Lee,Bank Teller,30,103505.6,2025-02-16,Active
+818,374,Susan Montgomery,Investment Advisor,19,38237.19,2019-02-03,Active
+819,260,Chad Williams,Bank Teller,6,62186.98,2022-08-13,Active
+820,698,Laurie Rogers,Financial Analyst,20,64996.4,2021-06-11,Resigned
+821,575,David Rose,Accountant,15,76909.18,2021-02-21,On Leave
+822,108,Michael Peterson,Bank Teller,12,115644.25,2017-08-29,Active
+823,159,Kimberly Chung,IT Support,5,63946.71,2023-05-06,Active
+824,214,Amy Patterson,Credit Analyst,29,63888.63,2021-09-29,Active
+825,129,James Cabrera,Accountant,20,67414.46,2019-09-06,Resigned
+826,214,Nicholas Williams,Data Analyst,12,34425.05,2021-06-14,Resigned
+827,305,Travis Copeland,Credit Analyst,25,104472.38,2020-03-05,On Leave
+828,178,Dawn Reed,Customer Service Representative,8,85763.97,2022-03-04,Active
+829,454,Timothy Wheeler,IT Support,22,80840.84,2020-05-31,On Leave
+830,119,Jonathan Weber,Credit Analyst,27,62127.78,2024-02-29,Active
+831,363,Melvin Becker,Security Officer,24,32905.26,2019-04-15,Resigned
+832,302,Pamela Martinez,Security Officer,19,30207.62,2023-07-15,Active
+833,93,Julie Park,Compliance Officer,17,57386.39,2020-07-25,On Leave
+834,122,Deborah Briggs,HR Manager,16,106361.92,2023-06-20,On Leave
+835,589,Jason Bowen,HR Manager,8,61573.6,2023-11-21,Resigned
+836,195,Emily Miller,Loan Officer,20,77040.53,2020-01-23,Resigned
+837,65,Vicki Hoover,Loan Officer,5,31818.72,2018-10-15,Resigned
+838,691,Michelle Rodriguez,Investment Advisor,5,52005.3,2020-06-05,Active
+839,232,Lorraine Murray,Bank Teller,13,99548.35,2017-09-05,Active
+840,95,Joan Wilson,Financial Analyst,30,61125.81,2024-05-03,On Leave
+841,268,Margaret Cameron,Financial Analyst,2,45335.19,2016-04-29,Active
+842,495,Austin Brown,Customer Service Representative,22,77215.82,2022-02-05,On Leave
+843,593,Erika Johnson,Compliance Officer,24,72472.2,2017-02-18,On Leave
+844,312,Mrs. Anne Reed,Compliance Officer,14,82229.23,2018-01-01,On Leave
+845,289,Kelly Marshall,Accountant,7,72493.93,2021-11-25,Resigned
+846,2,Laura Johnson,Security Officer,11,71404.34,2017-07-20,Resigned
+847,189,Pamela Schaefer,Bank Teller,27,96350.57,2019-08-11,Resigned
+848,85,Dr. Nathaniel Ramirez,IT Support,17,83945.34,2016-02-23,Resigned
+849,393,Michael Page,Compliance Officer,14,36601.5,2019-07-29,Resigned
+850,184,David Jenkins,Customer Service Representative,4,69021.6,2022-09-12,Active
+851,231,Arthur Mejia,Customer Service Representative,8,64239.43,2019-12-18,On Leave
+852,454,Rebecca Huber,Bank Teller,3,71159.6,2022-05-19,Resigned
+853,567,Michael Franklin,Compliance Officer,25,87886.33,2019-07-08,Resigned
+854,51,Thomas Galloway,Investment Advisor,16,75472.21,2016-06-03,Active
+855,277,Jennifer West,Accountant,15,58411.08,2017-02-04,Resigned
+856,131,Brandon Schmidt,Loan Officer,5,79967.27,2018-03-10,On Leave
+857,546,Shannon Reed,Branch Manager,21,90764.0,2016-07-02,On Leave
+858,247,Laura Martin,Security Officer,10,34678.91,2020-03-19,On Leave
+859,650,Zachary Hutchinson,Risk Manager,4,119506.59,2022-08-02,On Leave
+860,87,Paul Miller,Branch Manager,5,45234.09,2024-10-27,Active
+861,193,Todd Romero,IT Support,29,119969.64,2021-11-28,Active
+862,372,Mark Davis,Financial Analyst,27,49383.23,2018-12-03,On Leave
+863,262,Lindsey Rollins,IT Support,25,119541.45,2018-04-10,Resigned
+864,290,Kevin Ramsey,Accountant,25,114492.27,2017-04-24,Resigned
+865,689,Robert Allen,Investment Advisor,12,74538.77,2015-12-10,Resigned
+866,449,Stacy Davis,Investment Advisor,25,45252.08,2020-03-29,Resigned
+867,171,Brenda Weaver,IT Support,19,95240.98,2023-11-17,On Leave
+868,614,Jonathan Maldonado,IT Support,30,33969.48,2019-03-18,Active
+869,93,James Ortiz,Security Officer,21,42517.51,2023-11-02,On Leave
+870,535,Stephanie Sheppard,Accountant,22,30306.2,2021-12-07,Active
+871,490,Megan Rowland,Investment Advisor,27,96671.25,2016-07-15,Active
+872,24,Kimberly Salinas,Loan Officer,18,56341.34,2016-09-29,Resigned
+873,516,Nicholas Wilson,Security Officer,12,47630.1,2017-08-01,Resigned
+874,37,Sheri Sanders DDS,Investment Advisor,23,51144.64,2015-05-28,On Leave
+875,440,Evan Frazier,Credit Analyst,26,95161.29,2019-09-05,On Leave
+876,420,Natasha Davila,Financial Analyst,2,97381.64,2015-08-10,Active
+877,434,Brandon Baker,HR Manager,30,80305.5,2021-02-11,Resigned
+878,244,Alexander Perez,Compliance Officer,27,79540.27,2019-08-31,Resigned
+879,498,Karen Rocha,Risk Manager,14,64213.4,2018-06-06,On Leave
+880,486,Dr. Briana Archer MD,Compliance Officer,19,85593.39,2024-12-15,Resigned
+881,606,Craig Owens DDS,Customer Service Representative,12,87024.12,2015-06-22,Resigned
+882,456,Ashley Randall,HR Manager,14,101680.93,2022-09-18,On Leave
+883,194,Michele Aguilar,Bank Teller,7,77134.71,2023-10-01,Active
+884,209,Calvin Ford,Investment Advisor,18,92361.89,2024-10-18,Resigned
+885,611,Corey Matthews,Loan Officer,15,88328.82,2021-05-02,Resigned
+886,393,Ashley Cox,IT Support,21,108733.4,2020-03-05,Active
+887,470,James Hill,Loan Officer,20,35112.24,2015-09-15,Resigned
+888,272,Emily Knight,Security Officer,2,37808.61,2015-04-12,Active
+889,114,Elizabeth Castillo,IT Support,1,108013.15,2015-07-16,On Leave
+890,687,Pedro Livingston,Credit Analyst,26,99049.61,2023-02-01,On Leave
+891,91,James Garcia,HR Manager,20,46038.56,2021-02-28,On Leave
+892,393,Kim Turner,IT Support,13,81317.79,2021-01-29,Active
+893,490,Henry Patrick,Bank Teller,6,49974.43,2020-10-17,Active
+894,363,Clayton Scott,Financial Analyst,14,76736.19,2018-08-10,Active
+895,660,Megan Lopez,Credit Analyst,26,48023.96,2016-05-22,Active
+896,436,Tiffany Smith,Financial Analyst,24,54377.09,2025-02-17,Active
+897,435,Cynthia Miles,Compliance Officer,29,51147.04,2016-10-20,Active
+898,90,Antonio Jackson,Data Analyst,19,106126.59,2017-07-18,Active
+899,242,Alexander Mccall,Compliance Officer,18,97241.43,2015-08-27,Resigned
+900,207,Michael Knight,Accountant,1,99409.1,2017-11-06,On Leave
+901,621,Nathaniel Williams Jr.,Credit Analyst,10,96773.19,2022-10-24,On Leave
+902,327,William Keith,Risk Manager,5,104182.0,2017-09-09,Resigned
+903,669,Billy Garcia,Credit Analyst,28,102469.88,2020-07-30,On Leave
+904,624,Dr. Dustin Cole,Accountant,29,31256.05,2018-08-22,Resigned
+905,461,David Collins,Security Officer,10,116250.03,2021-08-02,Resigned
+906,451,Christy Turner,Bank Teller,28,36458.68,2016-12-07,Resigned
+907,578,Fernando Evans,Bank Teller,21,39597.57,2020-09-13,Active
+908,22,Brandon James,Credit Analyst,17,39472.69,2023-09-17,On Leave
+909,226,Lisa Carpenter,Data Analyst,25,100780.0,2023-02-06,On Leave
+910,479,Breanna Rogers,Investment Advisor,28,104285.2,2023-07-12,Active
+911,241,Charles Shea,Data Analyst,29,96178.76,2018-06-15,On Leave
+912,278,Angela Campos,Investment Advisor,6,114628.92,2018-05-27,On Leave
+913,442,Shelly Davis,Credit Analyst,13,115015.46,2024-01-22,On Leave
+914,346,Darlene Liu,Investment Advisor,17,43261.34,2022-11-11,Active
+915,200,Erin Lynch,Risk Manager,17,93039.17,2016-03-02,Resigned
+916,675,Cody Klein,Credit Analyst,10,69498.79,2020-11-23,Active
+917,24,Jeffrey Rangel,Financial Analyst,25,113738.68,2024-11-19,Active
+918,26,Laura Whitaker,Data Analyst,15,44666.98,2022-06-26,Active
+919,26,David Bush,Customer Service Representative,17,73071.41,2015-05-11,On Leave
+920,276,Kelly Taylor,Risk Manager,16,61720.24,2022-08-24,On Leave
+921,29,Douglas Livingston,Financial Analyst,7,58588.65,2016-09-30,Resigned
+922,233,Christopher Anderson,Bank Teller,3,68168.68,2019-04-25,Resigned
+923,224,Lauren Munoz,Data Analyst,10,53417.65,2020-06-24,Resigned
+924,390,Samuel Collins,Risk Manager,9,83810.49,2021-04-29,On Leave
+925,140,Katie Steele,HR Manager,23,48161.59,2018-04-28,Active
+926,548,Joshua Hood,Branch Manager,19,73605.57,2016-01-07,On Leave
+927,617,Micheal Fisher,Customer Service Representative,28,116978.8,2023-12-01,Active
+928,65,Cindy Jackson,Credit Analyst,10,97904.41,2017-03-13,On Leave
+929,242,Barbara Dodson,Bank Teller,1,109634.07,2022-08-07,Active
+930,175,William Pittman,HR Manager,12,79778.52,2017-01-04,Resigned
+931,651,Harold Buchanan,Customer Service Representative,30,61478.75,2025-01-08,Active
+932,537,Heather Soto,Customer Service Representative,9,115232.63,2018-06-24,Active
+933,493,Randall Sullivan,Data Analyst,18,85868.7,2016-08-16,On Leave
+934,294,Jacqueline Rocha,Compliance Officer,10,42558.96,2023-01-15,On Leave
+935,254,Mary Williams,Bank Teller,2,108080.08,2019-10-13,Active
+936,362,Carrie Atkins,Compliance Officer,10,72237.2,2025-01-10,On Leave
+937,334,James Robinson,Financial Analyst,7,110980.98,2022-10-12,Active
+938,71,Jacqueline Arnold,IT Support,1,88713.09,2016-09-04,Active
+939,437,Laurie Taylor,Security Officer,2,117104.19,2020-09-25,Resigned
+940,530,Patrick Garner,Data Analyst,17,98918.88,2019-07-18,Resigned
+941,251,Gwendolyn James,Branch Manager,10,96629.9,2022-01-09,On Leave
+942,308,Karen Kelley,Bank Teller,25,58165.96,2019-01-17,Resigned
+943,173,Janet Huff,Bank Teller,17,31909.26,2023-08-06,Active
+944,626,Caleb Tate,Data Analyst,24,44431.73,2024-07-15,Active
+945,638,Rebecca Webb,Risk Manager,14,109446.8,2021-05-09,On Leave
+946,576,Samuel Herman,IT Support,4,58789.4,2015-03-18,Resigned
+947,162,Juan White,Loan Officer,13,55394.51,2021-05-17,Resigned
+948,176,Dylan Conner,Compliance Officer,2,100232.1,2020-11-13,Resigned
+949,519,Jeremy Adams,Financial Analyst,11,54196.65,2019-01-30,Resigned
+950,549,Blake Taylor,Investment Advisor,9,64290.62,2023-12-01,Active
+951,233,Sarah Bell,Customer Service Representative,15,72246.73,2019-04-11,On Leave
+952,473,Adrian Hernandez,Risk Manager,29,96109.68,2025-01-25,Active
+953,141,Ashley Skinner,Branch Manager,24,109950.98,2016-02-17,Resigned
+954,517,Richard Jones,Bank Teller,4,42516.75,2019-06-19,Resigned
+955,204,Alison Washington,Data Analyst,24,34354.79,2016-06-14,On Leave
+956,428,Megan Tran,Bank Teller,1,94232.31,2017-08-04,Active
+957,433,Alan Pace,Data Analyst,17,36986.84,2024-12-16,Active
+958,92,Tanya Hernandez,Loan Officer,1,59055.91,2017-08-29,On Leave
+959,444,Richard Acevedo,Credit Analyst,2,49102.55,2023-08-21,Active
+960,43,William Hess,Credit Analyst,7,50059.81,2018-08-17,On Leave
+961,127,Sheryl Nguyen,Risk Manager,29,42535.63,2021-08-24,On Leave
+962,436,Mrs. Michelle Williams MD,Bank Teller,3,88590.55,2017-09-16,On Leave
+963,185,Dawn Murphy,HR Manager,3,58805.39,2022-06-15,Resigned
+964,594,Eric Jones,Branch Manager,10,102334.98,2018-04-07,Active
+965,146,Terry Fuentes,IT Support,7,97377.61,2018-07-30,On Leave
+966,125,Katelyn Garcia,Security Officer,11,70412.72,2019-11-23,On Leave
+967,62,Yvonne Simmons,HR Manager,22,91454.07,2016-04-01,On Leave
+968,311,Mark Nguyen,Investment Advisor,28,34824.24,2018-08-04,On Leave
+969,244,Heidi Johnson,Loan Officer,7,63477.77,2021-08-15,Active
+970,174,Richard Higgins,Loan Officer,30,86103.23,2023-02-14,Active
+971,396,Lisa Curry,Loan Officer,25,46842.36,2021-08-10,Resigned
+972,142,Sharon Adkins,Bank Teller,30,90239.3,2024-12-05,Active
+973,117,Shannon Anderson,Risk Manager,17,116195.42,2022-11-05,Active
+974,565,Candace Vargas,Accountant,21,83276.69,2018-02-27,On Leave
+975,585,Gabrielle Koch,Financial Analyst,4,62210.74,2019-12-22,Active
+976,109,James Heath,Bank Teller,1,58296.8,2017-01-09,Active
+977,431,Debra Chang,Loan Officer,7,75216.63,2024-03-10,On Leave
+978,274,Deborah Garrison,Credit Analyst,21,112423.98,2016-10-09,Active
+979,645,Jerry Rodriguez,Data Analyst,27,109339.49,2018-08-04,On Leave
+980,72,Kristina Thomas,Branch Manager,27,52203.51,2015-09-08,Resigned
+981,352,Cory Brown,Customer Service Representative,12,104557.98,2015-06-26,Resigned
+982,310,Courtney Wilson,Data Analyst,1,42720.36,2024-08-13,On Leave
+983,451,Timothy Patterson,Risk Manager,23,86150.91,2023-12-29,Resigned
+984,111,Edward Anderson,Customer Service Representative,26,109898.71,2016-01-18,On Leave
+985,511,Richard Miller,Security Officer,19,78902.12,2017-03-18,Active
+986,344,Joseph Ellis,Data Analyst,28,77269.37,2015-05-22,On Leave
+987,633,Brianna Frazier,IT Support,10,51807.9,2020-06-21,Resigned
+988,69,Crystal Schmitt,Credit Analyst,4,95345.21,2015-02-24,Resigned
+989,509,Jason Sweeney,HR Manager,2,116089.9,2023-01-24,Active
+990,428,Caitlin Wilson,Financial Analyst,6,106563.85,2022-02-11,Active
+991,401,Jason Nelson,Security Officer,26,63637.61,2024-12-20,Resigned
+992,10,Marcus Sanders,Data Analyst,18,105995.72,2022-01-17,Resigned
+993,125,John Crawford,Credit Analyst,29,49813.38,2022-11-14,Resigned
+994,636,Scott Wang,Branch Manager,1,103745.61,2017-01-17,Resigned
+995,209,Cindy Parker,Bank Teller,22,92113.34,2024-01-18,Resigned
+996,386,Sonya Gonzalez,Compliance Officer,5,77105.77,2018-02-23,On Leave
+997,598,Mark Miller,Data Analyst,26,101243.05,2022-06-13,Resigned
+998,417,Benjamin Davis,Risk Manager,24,67593.22,2018-03-27,On Leave
+999,46,Justin Logan,Bank Teller,7,53073.85,2021-04-12,On Leave
+1000,267,Anthony Jordan,Compliance Officer,16,45283.58,2020-07-14,On Leave
+1001,462,Sergio Pham,Financial Analyst,3,109998.19,2020-06-04,On Leave
+1002,108,Elijah Sanders,Loan Officer,3,37656.06,2021-05-27,On Leave
+1003,629,Anthony Hess,Bank Teller,4,59450.95,2022-02-09,Active
+1004,375,Angela Bradley,IT Support,19,38473.0,2023-05-08,Active
+1005,480,Melissa Fowler,Investment Advisor,15,89599.81,2022-06-03,On Leave
+1006,641,Ryan Bishop,Risk Manager,8,74445.43,2017-12-23,Resigned
+1007,456,Isaac Allen,Branch Manager,27,117389.98,2023-04-20,Active
+1008,510,Jennifer Morrison,Compliance Officer,7,99941.01,2019-11-09,Active
+1009,211,Hayley Thomas,Compliance Officer,29,71497.56,2018-03-26,Active
+1010,276,Kyle Anderson,Data Analyst,28,76660.61,2015-11-16,On Leave
+1011,645,George Freeman,Compliance Officer,19,82915.51,2021-01-17,Active
+1012,151,Robert Williams,Risk Manager,8,37061.73,2015-04-15,Active
+1013,70,Matthew Horn,HR Manager,6,42133.64,2023-05-04,On Leave
+1014,93,Ryan Ochoa,Investment Advisor,10,44632.69,2019-03-16,On Leave
+1015,402,Shelby Nicholson,Risk Manager,2,35765.81,2024-03-24,On Leave
+1016,188,Erika Wade,Risk Manager,19,32766.07,2020-07-05,Active
+1017,15,Marcus Calhoun,Credit Analyst,16,65976.21,2018-03-05,Active
+1018,136,Karla Wilson,Data Analyst,16,58938.04,2016-05-15,Active
+1019,690,Tyler Jones,Credit Analyst,16,32006.65,2020-02-21,On Leave
+1020,117,Patrick Dunn,Risk Manager,2,117710.2,2015-03-30,Active
+1021,330,Leroy Case,Risk Manager,20,40442.66,2024-07-27,Active
+1022,296,Vanessa Juarez,Security Officer,17,81655.56,2021-08-15,Resigned
+1023,623,Victoria Mclaughlin,Security Officer,16,44697.23,2020-11-04,On Leave
+1024,352,Joseph Griffith,Branch Manager,14,94935.68,2022-09-21,Resigned
+1025,475,Christopher Ingram,Customer Service Representative,26,93251.28,2020-11-24,Resigned
+1026,571,Julie Chandler,Risk Manager,7,75299.2,2018-01-16,On Leave
+1027,325,Anthony Hernandez,HR Manager,15,105604.75,2016-12-20,Resigned
+1028,695,Penny Brown,Financial Analyst,13,105629.6,2022-06-07,Active
+1029,365,Tara Rubio,Customer Service Representative,24,106867.35,2020-02-05,Resigned
+1030,204,Diana Simpson,Bank Teller,23,56131.94,2016-09-17,On Leave
+1031,227,Christina Mueller,Branch Manager,25,107563.39,2017-12-03,On Leave
+1032,141,Jeremy Murray,Loan Officer,3,74163.98,2023-11-04,Resigned
+1033,455,Kevin Higgins,Branch Manager,18,112175.43,2016-12-13,Resigned
+1034,657,Mariah Johnson,HR Manager,27,119048.35,2019-10-14,On Leave
+1035,471,Angel White,IT Support,11,43329.35,2023-05-08,On Leave
+1036,237,Jason Logan,Financial Analyst,11,100247.19,2020-12-12,Resigned
+1037,627,Timothy Waters,Customer Service Representative,20,97021.65,2018-09-22,Resigned
+1038,647,Heather Fleming,Accountant,6,60523.86,2017-09-16,Resigned
+1039,131,Austin Garcia,Customer Service Representative,10,39060.55,2025-02-04,Resigned
+1040,538,Suzanne Peterson,IT Support,24,81712.27,2021-03-10,Active
+1041,342,Jamie Booth,Security Officer,17,90497.64,2016-11-15,Active
+1042,344,Ashley Brown,Financial Analyst,15,93425.07,2024-01-20,Resigned
+1043,289,Gregory Turner,Loan Officer,20,83392.43,2023-09-16,Active
+1044,505,Lisa Rowe,Branch Manager,1,50298.98,2019-03-23,Active
+1045,380,Kathryn Brooks,Customer Service Representative,14,85664.92,2023-01-04,On Leave
+1046,255,John Perez,Accountant,9,42279.7,2017-07-27,On Leave
+1047,44,Linda Willis,Credit Analyst,9,62661.39,2015-02-24,On Leave
+1048,199,Dawn Price,Loan Officer,27,54828.63,2023-04-02,Resigned
+1049,627,Melissa Allison,Financial Analyst,28,94356.2,2021-08-18,Active
+1050,181,Phillip Gibson,IT Support,23,84512.63,2021-02-26,On Leave
+1051,331,Courtney Jones,Data Analyst,7,73898.79,2025-01-11,Active
+1052,659,Dawn Schultz,Branch Manager,27,101847.5,2021-03-30,Active
+1053,298,Joseph Lawson,Customer Service Representative,21,105398.39,2017-02-05,On Leave
+1054,88,Samantha Clements,Customer Service Representative,12,104716.72,2024-03-04,Resigned
+1055,400,Taylor Mcdowell,Credit Analyst,10,84552.63,2019-10-26,Active
+1056,441,Valerie Smith,Compliance Officer,28,51577.45,2022-06-30,Active
+1057,529,Grace Mata,Bank Teller,14,86324.79,2021-08-30,On Leave
+1058,438,Kent King,Investment Advisor,1,62245.38,2023-05-21,On Leave
+1059,418,Christopher Lewis,Customer Service Representative,15,99944.25,2022-11-05,Resigned
+1060,480,Rachel Petersen DDS,Data Analyst,30,98104.34,2021-12-05,Active
+1061,345,Kelsey Gillespie,Loan Officer,20,67705.14,2017-04-08,On Leave
+1062,237,Steven Hernandez,Financial Analyst,24,52046.3,2019-04-29,Resigned
+1063,48,Marc Brown,Compliance Officer,21,94082.32,2019-09-16,Active
+1064,159,Taylor Robinson,Security Officer,24,39905.57,2017-08-15,Resigned
+1065,204,Lori Hayden,Branch Manager,22,75489.63,2018-05-24,Resigned
+1066,557,Amanda Moore,Investment Advisor,18,61690.2,2022-03-17,Active
+1067,262,Joyce Larson,Compliance Officer,26,105843.34,2017-09-17,Resigned
+1068,408,Belinda Mcclure,Compliance Officer,4,103144.42,2018-12-12,Resigned
+1069,280,Valerie Campbell,Accountant,29,36769.58,2023-06-21,Active
+1070,159,Steven Thomas,Data Analyst,7,69722.57,2016-06-28,On Leave
+1071,256,Brandon Goodwin,Investment Advisor,3,106394.52,2015-04-23,Resigned
+1072,601,Michelle Cooper,HR Manager,7,98098.87,2015-03-02,On Leave
+1073,602,Emma Soto DDS,Financial Analyst,9,42008.41,2024-03-23,Active
+1074,597,Hannah Perez,Data Analyst,7,117032.18,2019-02-21,Active
+1075,242,Robert Munoz,Loan Officer,24,72965.29,2024-07-16,Active
+1076,98,Jennifer Collins,Security Officer,17,109338.43,2018-10-14,Active
+1077,534,Tamara Evans,Compliance Officer,4,38661.35,2025-01-17,On Leave
+1078,57,Jeffrey Owen,Financial Analyst,20,59991.17,2021-07-24,On Leave
+1079,675,Taylor Smith,Loan Officer,3,40646.35,2016-08-31,Resigned
+1080,518,Dr. Jessica Mack,Credit Analyst,9,48368.55,2018-10-29,Resigned
+1081,93,Jeff Bauer,HR Manager,6,62416.69,2024-07-06,On Leave
+1082,145,Debra English,Security Officer,6,68355.92,2016-07-24,Resigned
+1083,439,Mary Weber,Data Analyst,24,112305.7,2021-03-16,Active
+1084,346,Emily Morris,Investment Advisor,17,92689.6,2023-04-01,Resigned
+1085,76,Sarah Drake,IT Support,20,59509.53,2016-08-28,Resigned
+1086,195,Richard Martin,Customer Service Representative,19,107489.23,2015-09-29,On Leave
+1087,251,Ryan Garcia,Financial Analyst,7,60787.08,2024-08-09,On Leave
+1088,542,Leslie Shepherd,Branch Manager,21,93977.92,2015-07-30,Active
+1089,663,Alex Garcia,Bank Teller,5,58957.53,2020-10-22,Resigned
+1090,310,Michelle Rodriguez,Credit Analyst,28,49249.41,2024-12-24,Resigned
+1091,192,Roger Campos,Accountant,6,111003.35,2022-07-07,Active
+1092,346,Tonya Small,Bank Teller,14,96646.9,2022-01-28,Active
+1093,695,Brian Taylor,Customer Service Representative,9,104349.74,2018-01-13,Resigned
+1094,125,Benjamin Harris,Compliance Officer,23,117916.32,2017-02-11,Resigned
+1095,631,Kyle Anderson,Investment Advisor,18,51763.59,2023-02-27,Active
+1096,297,Albert Vargas,Data Analyst,19,71919.83,2015-03-20,Active
+1097,523,Robert Hopkins,IT Support,4,64888.32,2020-12-12,Active
+1098,557,Robert Morris,Customer Service Representative,8,36718.04,2019-10-10,Active
+1099,46,Lawrence Clark,Credit Analyst,28,66429.37,2018-02-12,Active
+1100,294,Angela Peters,Investment Advisor,10,47068.66,2018-07-23,On Leave
+1101,262,Matthew Hughes,Loan Officer,1,58715.73,2024-02-21,Resigned
+1102,441,Jackson Bullock,Credit Analyst,27,42999.22,2016-09-24,On Leave
+1103,230,Michael Anderson,Customer Service Representative,19,73398.68,2015-11-04,Active
+1104,643,Gerald Shepard,Loan Officer,24,115486.97,2016-04-07,On Leave
+1105,345,Audrey Lester,Branch Manager,14,87370.19,2020-08-11,Active
+1106,55,Wanda Arroyo,Accountant,24,83180.83,2021-08-07,Resigned
+1107,341,Jeremy Mason,Credit Analyst,10,62200.16,2023-09-28,Resigned
+1108,530,Susan Cooley,Compliance Officer,27,118542.13,2024-11-09,Resigned
+1109,345,Jessica Lewis,Credit Analyst,7,73727.63,2022-11-27,Resigned
+1110,236,Mary Williams,Customer Service Representative,14,117165.22,2020-02-24,On Leave
+1111,50,Jason Barnett,HR Manager,2,81489.55,2021-01-28,Active
+1112,23,Nicholas Knapp,Data Analyst,14,118952.03,2019-01-29,On Leave
+1113,447,Christopher Lowe,Risk Manager,21,96686.96,2022-10-09,Resigned
+1114,494,Jack Hood,IT Support,17,107712.49,2021-08-13,Resigned
+1115,134,Alex Griffin,Branch Manager,17,58970.58,2025-01-24,Resigned
+1116,534,Ryan Hayden,Financial Analyst,1,69167.3,2019-08-14,On Leave
+1117,307,Charles Smith,Loan Officer,4,99147.09,2022-05-07,On Leave
+1118,57,Michelle Combs,HR Manager,2,86969.95,2024-09-20,Resigned
+1119,190,Colleen Davis,HR Manager,14,72839.9,2017-08-31,Resigned
+1120,39,Amanda Ross,Financial Analyst,17,71387.36,2024-08-28,Active
+1121,31,Michelle Jones,Security Officer,28,56473.42,2023-01-31,On Leave
+1122,332,Andrew Vaughn,Data Analyst,7,98241.24,2018-04-30,On Leave
+1123,30,John Vargas DDS,Security Officer,14,50999.34,2021-11-12,Resigned
+1124,25,William Green,Data Analyst,12,53899.67,2024-08-04,On Leave
+1125,514,Joshua Jones,Bank Teller,20,89266.95,2019-04-18,Resigned
+1126,242,Mary Robertson,Loan Officer,6,43720.17,2023-01-13,Active
+1127,273,Tyler Cruz,Investment Advisor,9,91442.35,2017-12-08,On Leave
+1128,250,Caitlin Ramirez,HR Manager,15,115197.85,2021-08-10,Active
+1129,263,William Owen,HR Manager,16,30948.26,2015-09-07,Active
+1130,647,Derrick Padilla,Branch Manager,20,59071.8,2015-03-15,On Leave
+1131,418,Brittany Hall,Investment Advisor,14,115910.68,2019-05-24,On Leave
+1132,422,John Horton,Branch Manager,24,119173.84,2020-11-19,Active
+1133,263,Joseph Gardner,Branch Manager,12,92723.95,2022-11-05,Active
+1134,390,Melissa Washington,Risk Manager,25,54266.97,2021-02-06,Active
+1135,42,Kimberly Olson,Credit Analyst,17,64958.02,2022-04-02,Active
+1136,440,Stephen Griffin,Branch Manager,23,53005.87,2016-08-29,Resigned
+1137,377,Valerie Turner,Branch Manager,21,70087.62,2021-02-27,On Leave
+1138,289,Heather Myers,IT Support,21,118660.91,2022-09-15,On Leave
+1139,647,Zachary Diaz DDS,Data Analyst,20,57095.86,2015-11-20,Active
+1140,441,Brady Williams,Compliance Officer,1,96471.33,2020-06-06,Resigned
+1141,517,Daniel Bass,IT Support,27,99456.41,2015-04-27,Resigned
+1142,542,Levi Beard,Customer Service Representative,7,111344.58,2015-08-04,Resigned
+1143,471,Allison Stone,IT Support,16,108340.1,2024-11-05,Active
+1144,544,Gina Thornton,Compliance Officer,8,117644.85,2017-11-17,On Leave
+1145,379,Deborah Parrish,Financial Analyst,10,95416.91,2015-09-13,Active
+1146,189,Heather Turner,Branch Manager,2,98297.19,2019-08-20,On Leave
+1147,625,Samantha Campbell,Risk Manager,15,44563.09,2018-03-01,Resigned
+1148,355,Joe Jones,Branch Manager,29,58755.44,2015-02-26,Active
+1149,67,Derek Gould,Bank Teller,10,112385.11,2023-06-04,On Leave
+1150,93,Michael Rogers,Financial Analyst,15,44392.49,2022-03-11,Active
+1151,275,Andrew Sexton,Accountant,17,38734.34,2024-11-12,Resigned
+1152,45,Brian Carpenter,Compliance Officer,30,85524.89,2017-06-25,Resigned
+1153,116,Lori Oliver,Credit Analyst,16,68463.66,2024-08-17,Resigned
+1154,92,Dawn Sexton,IT Support,25,58734.26,2018-11-29,Active
+1155,342,Melissa Thomas,Accountant,24,32511.42,2024-02-11,Resigned
+1156,262,James Reynolds,Loan Officer,2,100142.04,2023-04-09,On Leave
+1157,388,Jason Cortez,Customer Service Representative,28,76169.22,2015-12-20,Active
+1158,507,Samantha Rivera,Loan Officer,13,49317.48,2023-12-03,On Leave
+1159,241,Terri Mays,Credit Analyst,10,119605.1,2020-05-01,Active
+1160,328,Kathleen Nguyen,Customer Service Representative,27,93636.49,2016-09-05,Resigned
+1161,216,Grant Carr,HR Manager,15,75687.25,2023-04-01,Resigned
+1162,675,Julia Kerr,Data Analyst,7,90798.02,2024-04-03,Resigned
+1163,260,Dawn Smith,Customer Service Representative,3,77023.2,2017-01-15,Active
+1164,654,Samantha Montoya,Credit Analyst,24,67917.84,2019-12-28,On Leave
+1165,132,Robert Gibson,Risk Manager,9,94898.55,2020-09-07,Resigned
+1166,29,Christina Peterson,Data Analyst,14,77351.79,2020-12-20,On Leave
+1167,289,Sara Martinez,Investment Advisor,16,85511.51,2024-07-31,On Leave
+1168,157,Jennifer Johnson,Security Officer,18,109462.66,2015-04-09,Resigned
+1169,487,Carlos Guzman,Accountant,10,34273.42,2015-11-21,Resigned
+1170,41,Pamela Hall,HR Manager,12,118920.48,2022-11-26,Resigned
+1171,77,Cynthia Ross,Customer Service Representative,9,80130.5,2024-09-20,Active
+1172,478,Maria Duffy,Investment Advisor,30,36095.27,2018-12-20,On Leave
+1173,590,Jennifer Winters,Accountant,7,80669.49,2024-10-17,Active
+1174,118,Christy Christensen,Customer Service Representative,3,98757.62,2025-01-03,On Leave
+1175,598,Mary Howell,Compliance Officer,11,33336.87,2020-02-27,Resigned
+1176,57,Adam Porter,Loan Officer,22,70774.41,2018-12-28,Resigned
+1177,385,Emily Finley,Branch Manager,10,101653.14,2018-09-01,On Leave
+1178,681,Summer Kelly,Customer Service Representative,12,33626.91,2015-12-07,On Leave
+1179,45,Kathleen Ferguson,Branch Manager,11,62527.99,2020-03-01,On Leave
+1180,247,Billy Romero,IT Support,24,51832.04,2024-06-21,Active
+1181,410,Courtney Murphy,IT Support,27,60854.01,2025-02-10,Resigned
+1182,262,Nathan Bauer,Risk Manager,20,64662.67,2019-06-12,On Leave
+1183,573,Cory Moore,Customer Service Representative,12,61976.52,2018-05-10,On Leave
+1184,20,Kathy Spencer,Risk Manager,29,35568.06,2020-12-17,On Leave
+1185,252,Kevin Hamilton,Compliance Officer,3,59472.17,2020-01-04,Active
+1186,152,Charles Monroe,Security Officer,12,51715.87,2016-10-28,On Leave
+1187,3,John Page,Customer Service Representative,6,63024.09,2024-02-14,Active
+1188,584,Tom Martin,Branch Manager,25,97155.24,2018-10-19,On Leave
+1189,330,Eric Ward,HR Manager,22,40095.58,2018-06-16,Active
+1190,140,David Reyes,Investment Advisor,8,81251.69,2018-01-31,Resigned
+1191,34,Alexandra Webster,Credit Analyst,7,90970.96,2023-11-19,On Leave
+1192,8,Carla Jones,Risk Manager,12,106187.24,2015-05-08,Resigned
+1193,267,Ashley Thomas,Bank Teller,23,89706.66,2018-04-14,Active
+1194,178,Miguel Carrillo,Branch Manager,20,35748.51,2024-01-22,On Leave
+1195,280,Jacob Martin,Compliance Officer,21,96544.25,2024-01-03,Active
+1196,248,Ashley Howell,Financial Analyst,24,104781.41,2021-07-22,Active
+1197,201,Lee Hughes,Loan Officer,27,109443.41,2015-05-29,Active
+1198,415,Sarah Johnson,Customer Service Representative,15,85326.21,2019-04-12,Active
+1199,45,Rhonda Randolph,Security Officer,8,46174.86,2024-01-08,Resigned
+1200,590,Jessica Carter,Security Officer,6,101611.48,2019-08-28,On Leave
+1201,436,Shannon Patel,Loan Officer,14,117522.74,2024-11-30,On Leave
+1202,508,Debbie Miller,Branch Manager,14,51802.03,2023-10-15,Resigned
+1203,438,Kimberly Carroll,Risk Manager,6,52717.06,2018-05-13,Resigned
+1204,431,Tiffany Soto,Accountant,28,69762.2,2018-02-09,Resigned
+1205,412,Edward Simpson,Financial Analyst,8,34544.96,2020-01-14,Resigned
+1206,464,Kerry Solomon,Bank Teller,9,30682.94,2021-07-31,Active
+1207,646,Amanda Fleming,Credit Analyst,29,64913.87,2019-04-10,Resigned
+1208,396,Katrina Underwood,Compliance Officer,10,80094.0,2022-08-04,Resigned
+1209,697,Ricardo Mata,Data Analyst,19,65593.38,2021-04-18,Resigned
+1210,31,Christine Lee,Compliance Officer,25,31654.21,2017-09-08,Active
+1211,657,Christine Chapman,Loan Officer,7,51096.17,2024-02-04,On Leave
+1212,341,Jacob Henry,Branch Manager,15,104765.69,2020-08-13,Active
+1213,141,Michael Kirk,Compliance Officer,12,33990.96,2020-08-03,Active
+1214,31,Marcus Foley II,Risk Manager,26,106182.55,2017-04-29,Resigned
+1215,198,Megan Sanchez,Data Analyst,30,114963.28,2016-11-09,On Leave
+1216,97,Julia Schmidt DVM,Branch Manager,16,52765.96,2021-09-27,Active
+1217,501,John Norris,Data Analyst,10,78844.28,2023-08-28,On Leave
+1218,512,Claudia Morris,Credit Analyst,12,43618.74,2020-10-21,Resigned
+1219,407,Carl Anderson,HR Manager,9,78484.54,2016-09-03,Resigned
+1220,337,Glenn Franco,IT Support,12,51874.46,2015-06-21,Active
+1221,328,Howard Goodman,Compliance Officer,1,42328.08,2019-06-24,On Leave
+1222,602,Richard Davila,Compliance Officer,25,113890.96,2023-03-23,Active
+1223,381,Brian Jones,Security Officer,13,38765.73,2022-12-11,Active
+1224,591,Rebecca Mason,IT Support,5,74091.53,2023-10-25,Resigned
+1225,587,Troy Young,HR Manager,9,89385.71,2025-01-20,Active
+1226,28,Clayton Peterson,Branch Manager,28,30928.0,2018-07-13,Resigned
+1227,607,Jose Bryant,HR Manager,7,47278.89,2017-06-29,Active
+1228,611,Joshua Liu,Loan Officer,30,54886.57,2021-11-21,Active
+1229,323,Kathleen Torres,Customer Service Representative,9,114711.61,2022-12-17,Resigned
+1230,330,David Powell,Bank Teller,10,88194.72,2019-11-20,Active
+1231,542,Sophia Coleman,Compliance Officer,17,84245.86,2022-12-08,Active
+1232,626,Raymond Wright DVM,IT Support,7,34000.94,2021-11-13,Active
+1233,183,Andrew Reynolds,Data Analyst,1,53315.51,2022-09-30,Active
+1234,692,Matthew Hayes,Risk Manager,10,73082.24,2023-05-23,Resigned
+1235,430,Brian Choi,Loan Officer,6,55617.91,2024-03-07,Active
+1236,620,Michael Ballard,Security Officer,23,41818.51,2016-07-19,Active
+1237,504,Diana Campbell,Security Officer,1,37690.48,2021-02-28,Resigned
+1238,480,April Huerta,Risk Manager,25,78269.74,2018-10-31,On Leave
+1239,122,Daniel Little,Credit Analyst,19,106031.17,2025-01-31,On Leave
+1240,604,Matthew Williams,Branch Manager,23,116616.2,2022-10-28,Active
+1241,175,Taylor Wilson,Financial Analyst,5,103081.14,2024-07-20,Active
+1242,429,Michael Howell,Data Analyst,22,54155.35,2017-10-15,Resigned
+1243,184,Robert Doyle,Investment Advisor,6,94859.5,2015-10-04,Active
+1244,75,Ashley Olson,Compliance Officer,21,30995.58,2018-05-03,Resigned
+1245,564,Amber Bailey,Investment Advisor,3,97851.52,2018-10-06,On Leave
+1246,611,Joshua Scott,Accountant,3,94618.83,2016-05-20,Resigned
+1247,50,Karen Burgess,Risk Manager,14,97066.39,2016-08-31,Resigned
+1248,303,Willie Davis,Security Officer,28,65789.06,2024-03-22,Resigned
+1249,573,Marie Blake,Security Officer,17,40786.05,2019-12-28,Resigned
+1250,207,Norma Phillips,Data Analyst,1,73522.97,2023-08-25,On Leave
+1251,283,Deanna Morris,IT Support,4,30166.72,2016-05-09,On Leave
+1252,285,Kelly Barnes,Risk Manager,1,84155.58,2016-10-12,Active
+1253,38,Justin Kerr,Credit Analyst,26,39657.65,2019-11-27,Active
+1254,418,Patrick Jordan,HR Manager,12,54612.31,2019-11-09,On Leave
+1255,663,Lindsay Williams,Data Analyst,16,42829.5,2022-02-01,On Leave
+1256,497,Jennifer Herrera,Data Analyst,21,40683.96,2016-09-29,Resigned
+1257,39,Mark Davis,Bank Teller,12,92284.68,2016-02-23,On Leave
+1258,370,Gary Smith,Investment Advisor,15,66290.95,2017-07-30,Resigned
+1259,5,Hannah Gibson,Bank Teller,16,37498.67,2017-10-21,Resigned
+1260,514,Tyler Flowers,Credit Analyst,16,58279.46,2021-02-23,Active
+1261,63,Donna Smith,Customer Service Representative,17,57044.8,2018-10-04,Active
+1262,197,Joseph Stanton,IT Support,18,61179.55,2022-11-09,Active
+1263,21,Lisa Porter,Accountant,27,79910.23,2018-09-09,On Leave
+1264,230,Ethan Guerrero,Bank Teller,24,58137.6,2021-04-03,Active
+1265,659,Noah Mueller,Risk Manager,29,51524.65,2023-07-13,On Leave
+1266,19,Gregory Hernandez,Data Analyst,1,105172.47,2018-03-30,Active
+1267,587,Marvin Cox,Customer Service Representative,2,30930.5,2021-08-26,Resigned
+1268,276,Christopher Gray,Bank Teller,18,78303.18,2016-12-14,Active
+1269,689,Martha Moore,Compliance Officer,28,114894.11,2017-04-12,Active
+1270,270,Matthew Taylor,Credit Analyst,4,42698.02,2018-09-30,Resigned
+1271,361,Audrey Jones,Bank Teller,27,37495.11,2023-03-03,Active
+1272,66,Sarah Robinson,HR Manager,4,46631.98,2023-04-23,Active
+1273,219,Kimberly Hendrix,Security Officer,28,91243.43,2019-07-03,On Leave
+1274,643,Kara Ali,Investment Advisor,6,65913.57,2021-09-29,Resigned
+1275,502,Robert Wade,Financial Analyst,17,76661.1,2018-05-13,Active
+1276,449,Andrew Miller PhD,Loan Officer,20,39842.44,2016-06-19,Active
+1277,691,Evan Yang,Accountant,18,30588.49,2020-07-02,On Leave
+1278,130,Wanda Roberts,IT Support,7,116348.31,2022-12-06,Active
+1279,241,Daniel Daniels,Credit Analyst,24,103336.67,2021-01-23,Active
+1280,516,Jonathan Frazier,Bank Teller,25,30493.12,2021-11-10,On Leave
+1281,19,Brenda Huber,Credit Analyst,27,110474.02,2020-04-27,On Leave
+1282,55,Courtney Thornton,HR Manager,18,77180.08,2016-03-08,Active
+1283,155,Jennifer Yates,Risk Manager,29,35946.25,2024-04-02,Active
+1284,483,Jonathan Johnson,Credit Analyst,3,73579.03,2017-04-22,Active
+1285,373,Michael Cain,Bank Teller,11,34688.18,2016-08-16,Resigned
+1286,549,Joshua Richardson,IT Support,8,40696.63,2015-06-27,Active
+1287,691,Brandon Mercado,Security Officer,7,87273.09,2016-03-11,Active
+1288,634,Johnny Yu,Bank Teller,10,105357.75,2024-11-30,On Leave
+1289,127,Lindsay Mendez,HR Manager,7,117977.54,2016-08-13,On Leave
+1290,641,Courtney Webster,Accountant,6,60001.45,2020-05-23,Active
+1291,382,Austin Tran,Credit Analyst,25,62040.82,2019-04-18,Active
+1292,270,Joseph Sanders,Data Analyst,22,74878.02,2020-11-03,Active
+1293,643,Thomas Palmer,IT Support,23,66975.51,2022-02-20,Resigned
+1294,546,Diana Mason,Customer Service Representative,15,67892.34,2022-04-20,Active
+1295,641,Bradley Cunningham,Data Analyst,3,58336.26,2019-07-24,Active
+1296,203,Kimberly Young,Security Officer,10,108083.27,2024-01-11,On Leave
+1297,166,Juan Barnett,Branch Manager,22,85998.81,2022-12-12,Active
+1298,370,Cory Gomez,Bank Teller,28,108818.9,2016-06-26,On Leave
+1299,174,Martin Dunn,Investment Advisor,18,81060.81,2017-02-11,On Leave
+1300,638,Angela Williams,Investment Advisor,8,105978.01,2021-02-11,Resigned
